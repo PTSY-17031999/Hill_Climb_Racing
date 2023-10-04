@@ -1,0 +1,4869 @@
+fileFormatVersion: 2
+guid: 80a002c2387773f488579bcc2ea1025c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6236130164984483103
+    second: vehicles-1_0
+  - first:
+      213: -624061557888495346
+    second: vehicles-1_1
+  - first:
+      213: -6221312401012525877
+    second: vehicles-1_2
+  - first:
+      213: 3465743555039546792
+    second: vehicles-1_3
+  - first:
+      213: 4241451133514568324
+    second: vehicles-1_4
+  - first:
+      213: -6597839183528274464
+    second: vehicles-1_5
+  - first:
+      213: -8940468283168488029
+    second: vehicles-1_6
+  - first:
+      213: -13758408191431061
+    second: vehicles-1_7
+  - first:
+      213: -569222863595378425
+    second: vehicles-1_8
+  - first:
+      213: 7478445578136444995
+    second: vehicles-1_9
+  - first:
+      213: 2827284888905108590
+    second: vehicles-1_10
+  - first:
+      213: -341776609207583446
+    second: vehicles-1_11
+  - first:
+      213: 6030979258044599692
+    second: vehicles-1_12
+  - first:
+      213: -1910495726916514549
+    second: vehicles-1_13
+  - first:
+      213: 855025363947601159
+    second: vehicles-1_14
+  - first:
+      213: 6572189903344705110
+    second: vehicles-1_15
+  - first:
+      213: 7552997278692480030
+    second: vehicles-1_16
+  - first:
+      213: -1138419339521588350
+    second: vehicles-1_17
+  - first:
+      213: -5429985781945163817
+    second: vehicles-1_18
+  - first:
+      213: -4416608757692944583
+    second: vehicles-1_19
+  - first:
+      213: 3022046047554477544
+    second: vehicles-1_20
+  - first:
+      213: 3054454368391649509
+    second: vehicles-1_21
+  - first:
+      213: -7391338554648158379
+    second: vehicles-1_22
+  - first:
+      213: -4806450450110279629
+    second: vehicles-1_23
+  - first:
+      213: -126142249753661685
+    second: vehicles-1_24
+  - first:
+      213: -7000500665301800464
+    second: vehicles-1_25
+  - first:
+      213: -8741479964922586972
+    second: vehicles-1_26
+  - first:
+      213: -4376308837319345867
+    second: vehicles-1_27
+  - first:
+      213: -2406058464654459420
+    second: vehicles-1_28
+  - first:
+      213: 7219353786301438258
+    second: vehicles-1_29
+  - first:
+      213: 4506834236165316423
+    second: vehicles-1_30
+  - first:
+      213: 3233387530777829479
+    second: vehicles-1_31
+  - first:
+      213: 7698136995557550684
+    second: vehicles-1_32
+  - first:
+      213: 9052462161835585889
+    second: vehicles-1_33
+  - first:
+      213: -1070733819211513233
+    second: vehicles-1_34
+  - first:
+      213: -2182895233429114574
+    second: vehicles-1_35
+  - first:
+      213: -3991744931747298779
+    second: vehicles-1_36
+  - first:
+      213: -4575705967933801608
+    second: vehicles-1_37
+  - first:
+      213: -6604965503882247504
+    second: vehicles-1_38
+  - first:
+      213: 857207510825304945
+    second: vehicles-1_39
+  - first:
+      213: -6820921258936707385
+    second: vehicles-1_40
+  - first:
+      213: 2835891551392289816
+    second: vehicles-1_41
+  - first:
+      213: -4976081433942863297
+    second: vehicles-1_42
+  - first:
+      213: -8583646005959834548
+    second: vehicles-1_43
+  - first:
+      213: 1668539286253193547
+    second: vehicles-1_44
+  - first:
+      213: 7161197146806752246
+    second: vehicles-1_45
+  - first:
+      213: 8313882266326843994
+    second: vehicles-1_46
+  - first:
+      213: -4273093843118586072
+    second: vehicles-1_47
+  - first:
+      213: -5375397995388761824
+    second: vehicles-1_48
+  - first:
+      213: -8020322138758941109
+    second: vehicles-1_49
+  - first:
+      213: -4398923346158868823
+    second: vehicles-1_50
+  - first:
+      213: -7109819778264696288
+    second: vehicles-1_51
+  - first:
+      213: -2652187242389472094
+    second: vehicles-1_52
+  - first:
+      213: 8013239389905141819
+    second: vehicles-1_53
+  - first:
+      213: 8752312852904689957
+    second: vehicles-1_54
+  - first:
+      213: 7588611573911977178
+    second: vehicles-1_55
+  - first:
+      213: -8603713044736135526
+    second: vehicles-1_56
+  - first:
+      213: 3053913138921995797
+    second: vehicles-1_57
+  - first:
+      213: 9097340778809595533
+    second: vehicles-1_58
+  - first:
+      213: -4431582428029379572
+    second: vehicles-1_59
+  - first:
+      213: 6873273921429112423
+    second: vehicles-1_60
+  - first:
+      213: 237129583795397953
+    second: vehicles-1_61
+  - first:
+      213: -5265319735744345198
+    second: vehicles-1_62
+  - first:
+      213: 6534519954715634175
+    second: vehicles-1_63
+  - first:
+      213: -5974360993846155263
+    second: vehicles-1_64
+  - first:
+      213: -7890268507553161848
+    second: vehicles-1_65
+  - first:
+      213: -1779874279918600381
+    second: vehicles-1_66
+  - first:
+      213: 4192447310124877631
+    second: vehicles-1_67
+  - first:
+      213: 8263943243616385490
+    second: vehicles-1_68
+  - first:
+      213: 4476397694100411002
+    second: vehicles-1_69
+  - first:
+      213: 6321715415133140407
+    second: vehicles-1_70
+  - first:
+      213: 6873920827668578903
+    second: vehicles-1_71
+  - first:
+      213: -7087442800855547784
+    second: vehicles-1_72
+  - first:
+      213: 1844190852470502083
+    second: vehicles-1_73
+  - first:
+      213: 1345865452424259319
+    second: vehicles-1_74
+  - first:
+      213: 7757477601578849419
+    second: vehicles-1_75
+  - first:
+      213: -7026752235985676758
+    second: vehicles-1_76
+  - first:
+      213: 1714460618975233027
+    second: vehicles-1_77
+  - first:
+      213: 6825695101607563724
+    second: vehicles-1_78
+  - first:
+      213: -3439934091432026111
+    second: vehicles-1_79
+  - first:
+      213: 2707792847278993207
+    second: vehicles-1_80
+  - first:
+      213: 3354059393790117248
+    second: vehicles-1_81
+  - first:
+      213: -8365133034463605240
+    second: vehicles-1_82
+  - first:
+      213: -5296530568386227636
+    second: vehicles-1_83
+  - first:
+      213: 7647275030208933520
+    second: vehicles-1_84
+  - first:
+      213: 3714829041578794606
+    second: vehicles-1_85
+  - first:
+      213: 6800000056456920438
+    second: vehicles-1_86
+  - first:
+      213: -4386516884701752237
+    second: vehicles-1_87
+  - first:
+      213: 738280047953831120
+    second: vehicles-1_88
+  - first:
+      213: -7074123425331683028
+    second: vehicles-1_89
+  - first:
+      213: 2816064873473939906
+    second: vehicles-1_90
+  - first:
+      213: 9220964424198914359
+    second: vehicles-1_91
+  - first:
+      213: 437861501548857836
+    second: vehicles-1_92
+  - first:
+      213: 4766809829391314321
+    second: vehicles-1_93
+  - first:
+      213: 619619447392069256
+    second: vehicles-1_94
+  - first:
+      213: 4132185232926769477
+    second: vehicles-1_95
+  - first:
+      213: -7446902240361032706
+    second: vehicles-1_96
+  - first:
+      213: -4017729811162318397
+    second: vehicles-1_97
+  - first:
+      213: -6391421610487059721
+    second: vehicles-1_98
+  - first:
+      213: -3424546257726246521
+    second: vehicles-1_99
+  - first:
+      213: -7971964953403967902
+    second: vehicles-1_100
+  - first:
+      213: -918815617856882792
+    second: vehicles-1_101
+  - first:
+      213: -6729464553395284843
+    second: vehicles-1_102
+  - first:
+      213: -6725814402487740224
+    second: vehicles-1_103
+  - first:
+      213: -3289839458920137666
+    second: vehicles-1_104
+  - first:
+      213: -5829588826391298430
+    second: vehicles-1_105
+  - first:
+      213: 8205748604161821418
+    second: vehicles-1_106
+  - first:
+      213: -3092036441497916281
+    second: vehicles-1_107
+  - first:
+      213: 3871796792742173360
+    second: vehicles-1_108
+  - first:
+      213: -1828801740240745323
+    second: vehicles-1_109
+  - first:
+      213: -2194777206943878780
+    second: vehicles-1_110
+  - first:
+      213: 3436553900584833342
+    second: vehicles-1_111
+  - first:
+      213: 2313745215032115734
+    second: vehicles-1_112
+  - first:
+      213: 5147035391218881595
+    second: vehicles-1_113
+  - first:
+      213: 4699892586788186323
+    second: vehicles-1_114
+  - first:
+      213: 6174565433775889248
+    second: vehicles-1_115
+  - first:
+      213: 3953461395208280288
+    second: vehicles-1_116
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vehicles-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1516
+        width: 258
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e27007c7a0d479a0800000000000000
+      internalID: -6236130164984483103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1521
+        width: 258
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01541cc153e657f0800000000000000
+      internalID: -624061557888495346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1529
+        width: 256
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc47aec455579a9a0800000000000000
+      internalID: -6221312401012525877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_3
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1592
+        width: 221
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad4bb8a66bc81030800000000000000
+      internalID: 3465743555039546792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 255
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48250517559acda30800000000000000
+      internalID: 4241451133514568324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1427
+        width: 258
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5d4ac2834cf64a0800000000000000
+      internalID: -6597839183528274464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1427
+        width: 256
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5881017731de380800000000000000
+      internalID: -8940468283168488029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_7
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1480
+        width: 217
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e2317fcce1fcff0800000000000000
+      internalID: -13758408191431061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1388
+        width: 258
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709ed5942d6b918f0800000000000000
+      internalID: -569222863595378425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1379
+        width: 258
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340e9ec71a6c8c760800000000000000
+      internalID: 7478445578136444995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_10
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1382
+        width: 254
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cc40a70a88c3720800000000000000
+      internalID: 2827284888905108590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_11
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1406
+        width: 212
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2df4a71cf3c14bf0800000000000000
+      internalID: -341776609207583446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1342
+        width: 258
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d4f738ea752b350800000000000000
+      internalID: 6030979258044599692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1271
+        width: 253
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d4d34324e8c75e0800000000000000
+      internalID: -1910495726916514549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1262
+        width: 252
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dbb04d909addb00800000000000000
+      internalID: 855025363947601159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_15
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1332
+        width: 212
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e154965eb153b50800000000000000
+      internalID: 6572189903344705110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1234
+        width: 253
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1415f9e103a1d860800000000000000
+      internalID: 7552997278692480030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1165
+        width: 253
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283816e64a58330f0800000000000000
+      internalID: -1138419339521588350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_18
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1258
+        width: 212
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df9cbb53b0d4a4b0800000000000000
+      internalID: -5429985781945163817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1130
+        width: 250
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f25dd2cbd05b2c0800000000000000
+      internalID: -4416608757692944583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_20
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1158
+        width: 250
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed9b576ed670f920800000000000000
+      internalID: 3022046047554477544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_21
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1168
+        width: 229
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8df9a901a936a20800000000000000
+      internalID: 3054454368391649509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1034
+        width: 251
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f1c8bdeb0bc6990800000000000000
+      internalID: -7391338554648158379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1061
+        width: 250
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33019a208ce0c4db0800000000000000
+      internalID: -4806450450110279629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_24
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1058
+        width: 248
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fa34cca4adf3ef0800000000000000
+      internalID: -126142249753661685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_25
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1082
+        width: 230
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9ecc23cb939de90800000000000000
+      internalID: -7000500665301800464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 972
+        width: 249
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a85897494600b680800000000000000
+      internalID: -8741479964922586972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_27
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 963
+        width: 248
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5397d249c4a3443c0800000000000000
+      internalID: -4376308837319345867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_28
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 938
+        width: 239
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edf2710396fb9ed0800000000000000
+      internalID: -2406058464654459420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_29
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 964
+        width: 237
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2395e54d40c403460800000000000000
+      internalID: 7219353786301438258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 920
+        width: 247
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fd33c0cdd7b8e30800000000000000
+      internalID: 4506834236165316423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 843
+        width: 238
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760a039f3dc4fdc20800000000000000
+      internalID: 3233387530777829479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_32
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 837
+        width: 240
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a208c9fc645da60800000000000000
+      internalID: 7698136995557550684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_33
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 844
+        width: 239
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161ffdacf5ec0ad70800000000000000
+      internalID: 9052462161835585889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 240
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6286e0b34df321f0800000000000000
+      internalID: -1070733819211513233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_35
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 759
+        width: 228
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2317095c95cc4b1e0800000000000000
+      internalID: -2182895233429114574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_36
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 705
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5228c3d32297a98c0800000000000000
+      internalID: -3991744931747298779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_37
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 705
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bbba05aa3df70c0800000000000000
+      internalID: -4575705967933801608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_38
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 784
+        width: 145
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2c36b6ed27654a0800000000000000
+      internalID: -6604965503882247504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_39
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 736
+        width: 119
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1730a8d70b965eb00800000000000000
+      internalID: 857207510825304945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 190
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6da28f0483751a0800000000000000
+      internalID: -6820921258936707385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_41
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 689
+        width: 46
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814d44e375c1b5720800000000000000
+      internalID: 2835891551392289816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_42
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 625
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f325b6cdc4861fab0800000000000000
+      internalID: -4976081433942863297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_43
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 625
+        width: 93
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4440198f63c0e880800000000000000
+      internalID: -8583646005959834548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_44
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 652
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49c7eaf3a7d72710800000000000000
+      internalID: 1668539286253193547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_45
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 602
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f315f50ddea16360800000000000000
+      internalID: 7161197146806752246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 621
+        width: 169
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52c4d45fd7d06370800000000000000
+      internalID: 8313882266326843994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 618
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827020d1acbe2b4c0800000000000000
+      internalID: -4273093843118586072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_48
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 493
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0298186d000c665b0800000000000000
+      internalID: -5375397995388761824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_49
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 557
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46721f128712b090800000000000000
+      internalID: -8020322138758941109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_50
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 573
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6270ee582e3f2c0800000000000000
+      internalID: -4398923346158868823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_51
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 573
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a7c73c498d45d90800000000000000
+      internalID: -7109819778264696288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_52
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 520
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac7d8341c9813bd0800000000000000
+      internalID: -2652187242389472094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30c677e4ceb43f60800000000000000
+      internalID: 8013239389905141819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 501
+        width: 34
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52148700b26767970800000000000000
+      internalID: 8752312852904689957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_55
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 486
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcf071350a205960800000000000000
+      internalID: 7588611573911977178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_56
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 439
+        width: 89
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eab1bf198799880800000000000000
+      internalID: -8603713044736135526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_57
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 441
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ef75cc1dda16a20800000000000000
+      internalID: 3053913138921995797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_58
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 443
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d861f911d3f304e70800000000000000
+      internalID: 9097340778809595533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_59
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 388
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c1270e24bdf72c0800000000000000
+      internalID: -4431582428029379572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_60
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 470
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7660db22736c26f50800000000000000
+      internalID: 6873273921429112423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 359
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1456cdf99147a4300800000000000000
+      internalID: 237129583795397953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_62
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bca12e893dde6b0800000000000000
+      internalID: -5265319735744345198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 355
+        width: 72
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9e68607474faa50800000000000000
+      internalID: 6534519954715634175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_64
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 361
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108a9d1645ec61da0800000000000000
+      internalID: -5974360993846155263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_65
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 338
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d97d8c892208290800000000000000
+      internalID: -7890268507553161848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_66
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 438
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ff898c5cd9c47e0800000000000000
+      internalID: -1779874279918600381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_67
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 362
+        width: 105
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f370983bd909e2a30800000000000000
+      internalID: 4192447310124877631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_68
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 407
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d97eb7889c6fa270800000000000000
+      internalID: 8263943243616385490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_69
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 363
+        width: 118
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a729b3e5cfb5f1e30800000000000000
+      internalID: 4476397694100411002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_70
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 411
+        width: 125
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b53f1a1dae3bb750800000000000000
+      internalID: 6321715415133140407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 381
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752485bb292156f50800000000000000
+      internalID: 6873920827668578903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_72
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 335
+        width: 129
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8700b11d25854ad90800000000000000
+      internalID: -7087442800855547784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_73
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 304
+        width: 127
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c277833fc1e79910800000000000000
+      internalID: 1844190852470502083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6e73f8f797da210800000000000000
+      internalID: 1345865452424259319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 249
+        width: 25
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84182b17c818ab60800000000000000
+      internalID: 7757477601578849419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 225
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2654691216fb7e90800000000000000
+      internalID: -7026752235985676758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_77
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 229
+        width: 102
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3044a6f69dcfac710800000000000000
+      internalID: 1714460618975233027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_78
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 229
+        width: 59
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc15174e78db9be50800000000000000
+      internalID: 6825695101607563724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_79
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 229
+        width: 42
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100207d5b26e240d0800000000000000
+      internalID: -3439934091432026111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_80
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 275
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f68638f33049520800000000000000
+      internalID: 2707792847278993207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_81
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 229
+        width: 121
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0850c628f330c8e20800000000000000
+      internalID: 3354059393790117248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_82
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 236
+        width: 120
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e49e553d319eb80800000000000000
+      internalID: -8365133034463605240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_83
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 270
+        width: 122
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c425751a281fe76b0800000000000000
+      internalID: -5296530568386227636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e615b7f14902a60800000000000000
+      internalID: 7647275030208933520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_85
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 93
+        width: 113
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6edb90d459bd8330800000000000000
+      internalID: 3714829041578794606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_86
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 93
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d30cdf5047e5e50800000000000000
+      internalID: 6800000056456920438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_87
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 97
+        width: 62
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35459165226ff13c0800000000000000
+      internalID: -4386516884701752237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_88
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 97
+        width: 57
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4eb03cac5ee3a00800000000000000
+      internalID: 738280047953831120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 189
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21e5d7993aa3dd90800000000000000
+      internalID: -7074123425331683028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_90
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 197
+        width: 118
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c99edf051ca41720800000000000000
+      internalID: 2816064873473939906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_91
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 195
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73104eef94277ff70800000000000000
+      internalID: 9220964424198914359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_92
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 206
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce983ac37b8931600800000000000000
+      internalID: 437861501548857836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_93
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 204
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da5b0c84c172240800000000000000
+      internalID: 4766809829391314321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_94
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 202
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8866ab1ca94599800800000000000000
+      internalID: 619619447392069256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_95
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 111
+        width: 123
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54107ba7398785930800000000000000
+      internalID: 4132185232926769477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_96
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 124
+        width: 116
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef358362ed947a890800000000000000
+      internalID: -7446902240361032706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_97
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 127
+        width: 118
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c93c2a06082e38c0800000000000000
+      internalID: -4017729811162318397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_98
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 136
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fae92198eb1d47a0800000000000000
+      internalID: -6391421610487059721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_99
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 134
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781755792519970d0800000000000000
+      internalID: -3424546257726246521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 130
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2663e76bc14ed5190800000000000000
+      internalID: -7971964953403967902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_101
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 130
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8973f8b4016bf33f0800000000000000
+      internalID: -918815617856882792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_102
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5949a4694a32c92a0800000000000000
+      internalID: -6729464553395284843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_103
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 7
+        width: 113
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c813829f6b19a2a0800000000000000
+      internalID: -6725814402487740224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_104
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 13
+        width: 119
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c700341742852d0800000000000000
+      internalID: -3289839458920137666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_105
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 37
+        width: 118
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e3c5059d3291fa0800000000000000
+      internalID: -5829588826391298430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_106
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2
+        width: 62
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea093b21eca0e170800000000000000
+      internalID: 8205748604161821418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_107
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 3
+        width: 50
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c24ff1d31e615d0800000000000000
+      internalID: -3092036441497916281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_108
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 14
+        width: 53
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bad4e95ba26bb530800000000000000
+      internalID: 3871796792742173360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_109
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c8554b18ace96e0800000000000000
+      internalID: -1828801740240745323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_110
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4817cfa32c59a81e0800000000000000
+      internalID: -2194777206943878780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_111
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 5
+        width: 116
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3197df909711bf20800000000000000
+      internalID: 3436553900584833342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_112
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 4
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612cfbaa3031c1020800000000000000
+      internalID: 2313745215032115734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_113
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 17
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3417fb0b61fd6740800000000000000
+      internalID: 5147035391218881595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_114
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 15
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d86006186f593140800000000000000
+      internalID: 4699892586788186323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_115
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 13
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b1e9a3c8670b550800000000000000
+      internalID: 6174565433775889248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicles-1_116
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 11
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e81c9e41348dd630800000000000000
+      internalID: 3953461395208280288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 209.5, y: -698}
+      - {x: 181.5, y: -698}
+      - {x: 173.5, y: -709}
+      - {x: 173.5, y: -817}
+      - {x: 182.5, y: -820}
+      - {x: 224.5, y: -820}
+      - {x: 233.5, y: -812}
+      - {x: 239.5, y: -765}
+      - {x: 239.5, y: -726}
+    - - {x: -213.5, y: -727}
+      - {x: -240.5, y: -747}
+      - {x: -301.5, y: -728}
+      - {x: -319.5, y: -727}
+      - {x: -435.5, y: -727}
+      - {x: -504.5, y: -772}
+      - {x: -504.5, y: -819}
+      - {x: -207.5, y: -819}
+      - {x: -199.5, y: -814}
+      - {x: -194.5, y: -758}
+      - {x: -194.5, y: -731}
+      - {x: -203.5, y: -727}
+    - - {x: 239.5, y: -693}
+      - {x: 239.5, y: -770}
+      - {x: 263.5, y: -819}
+      - {x: 271.5, y: -819}
+      - {x: 293.5, y: -783}
+      - {x: 293.5, y: -771}
+      - {x: 258.5, y: -693}
+    - - {x: 395.5, y: -552}
+      - {x: 351.5, y: -629}
+      - {x: 351.5, y: -743}
+      - {x: 366.5, y: -753}
+      - {x: 377.5, y: -756}
+      - {x: 395.5, y: -756}
+      - {x: 407.5, y: -754}
+      - {x: 418.5, y: -760}
+      - {x: 392.5, y: -756}
+      - {x: 381.5, y: -756}
+      - {x: 359.5, y: -761}
+      - {x: 351.5, y: -775}
+      - {x: 351.5, y: -807}
+      - {x: 375.5, y: -818}
+      - {x: 489.5, y: -818}
+      - {x: 489.5, y: -583}
+      - {x: 476.5, y: -552}
+    - - {x: 51.5, y: -788}
+      - {x: 51.5, y: -817}
+      - {x: 171.5, y: -817}
+      - {x: 171.5, y: -796}
+      - {x: 166.5, y: -788}
+    - - {x: -184.5, y: -730}
+      - {x: -188.5, y: -735}
+      - {x: -193.5, y: -742}
+      - {x: -193.5, y: -807}
+      - {x: -190.5, y: -815}
+      - {x: -127.5, y: -815}
+      - {x: -76.5, y: -803}
+      - {x: -76.5, y: -777}
+      - {x: -137.5, y: -730}
+    - - {x: -2.5, y: -725}
+      - {x: -49.5, y: -738}
+      - {x: -73.5, y: -767}
+      - {x: -73.5, y: -798}
+      - {x: -61.5, y: -800}
+      - {x: -19.5, y: -809}
+      - {x: 30.5, y: -809}
+      - {x: 49.5, y: -780}
+      - {x: 49.5, y: -725}
+    - - {x: 350.5, y: -717}
+      - {x: 350.5, y: -700}
+      - {x: 344.5, y: -696}
+      - {x: 327.5, y: -696}
+      - {x: 293.5, y: -719}
+      - {x: 293.5, y: -808}
+      - {x: 316.5, y: -808}
+      - {x: 321.5, y: -802}
+      - {x: 325.5, y: -789}
+      - {x: 348.5, y: -724}
+    - - {x: 59.5, y: -711}
+      - {x: 51.5, y: -725}
+      - {x: 51.5, y: -780}
+      - {x: 68.5, y: -785}
+      - {x: 108.5, y: -785}
+      - {x: 171.5, y: -752}
+      - {x: 171.5, y: -735}
+      - {x: 107.5, y: -711}
+    - - {x: 445.5, y: -737}
+      - {x: 447.5, y: -734}
+      - {x: 449.5, y: -733}
+      - {x: 449.5, y: -738}
+      - {x: 447.5, y: -738}
+      - {x: 447.5, y: -737}
+    - - {x: 459.5, y: -733}
+      - {x: 461.5, y: -734}
+      - {x: 463.5, y: -737}
+      - {x: 461.5, y: -738}
+      - {x: 459.5, y: -738}
+    - - {x: 436.5, y: -725}
+      - {x: 441.5, y: -725}
+      - {x: 442.5, y: -726}
+      - {x: 440.5, y: -728}
+      - {x: 438.5, y: -729}
+    - - {x: 466.5, y: -726}
+      - {x: 467.5, y: -725}
+      - {x: 470.5, y: -726}
+      - {x: 472.5, y: -725}
+      - {x: 471.5, y: -726}
+      - {x: 470.5, y: -729}
+      - {x: 469.5, y: -728}
+    - - {x: -493.5, y: -595}
+      - {x: -504.5, y: -595}
+      - {x: -504.5, y: -629}
+      - {x: -502.5, y: -646}
+      - {x: -500.5, y: -651}
+      - {x: -467.5, y: -725}
+      - {x: -465.5, y: -729}
+      - {x: -440.5, y: -729}
+      - {x: -379.5, y: -716}
+      - {x: -379.5, y: -699}
+      - {x: -420.5, y: -615}
+    - - {x: -259.5, y: -597}
+      - {x: -347.5, y: -597}
+      - {x: -376.5, y: -599}
+      - {x: -376.5, y: -709}
+      - {x: -368.5, y: -729}
+      - {x: -316.5, y: -729}
+      - {x: -304.5, y: -720}
+      - {x: -259.5, y: -671}
+    - - {x: -178.5, y: -595}
+      - {x: -258.5, y: -701}
+      - {x: -258.5, y: -716}
+      - {x: -250.5, y: -725}
+      - {x: -245.5, y: -729}
+      - {x: -225.5, y: -729}
+      - {x: -142.5, y: -622}
+      - {x: -142.5, y: -600}
+      - {x: -150.5, y: -595}
+    - - {x: -104.5, y: -459}
+      - {x: -173.5, y: -459}
+      - {x: -209.5, y: -470}
+      - {x: -209.5, y: -635}
+      - {x: -169.5, y: -725}
+      - {x: -105.5, y: -725}
+      - {x: -90.5, y: -701}
+      - {x: -82.5, y: -672}
+      - {x: -78.5, y: -644}
+      - {x: -78.5, y: -610}
+    - - {x: -73.5, y: -591}
+      - {x: -80.5, y: -601}
+      - {x: -80.5, y: -725}
+      - {x: -66.5, y: -725}
+      - {x: -19.5, y: -658}
+      - {x: -19.5, y: -591}
+    - - {x: 167.5, y: -721}
+      - {x: 168.5, y: -724}
+      - {x: 171.5, y: -724}
+      - {x: 173.5, y: -722}
+      - {x: 172.5, y: -719}
+      - {x: 169.5, y: -719}
+    - - {x: 437.5, y: -714}
+      - {x: 438.5, y: -712}
+      - {x: 441.5, y: -714}
+      - {x: 442.5, y: -716}
+      - {x: 438.5, y: -716}
+      - {x: 437.5, y: -715}
+    - - {x: 467.5, y: -714}
+      - {x: 470.5, y: -712}
+      - {x: 471.5, y: -714}
+      - {x: 471.5, y: -715}
+      - {x: 470.5, y: -716}
+      - {x: 466.5, y: -716}
+    - - {x: 226.5, y: -683}
+      - {x: 226.5, y: -680}
+      - {x: 223.5, y: -625}
+      - {x: 13.5, y: -625}
+      - {x: -18.5, y: -631}
+      - {x: -18.5, y: -669}
+      - {x: 18.5, y: -711}
+      - {x: 109.5, y: -711}
+      - {x: 136.5, y: -698}
+      - {x: 138.5, y: -693}
+      - {x: 224.5, y: -685}
+    - - {x: 447.5, y: -707}
+      - {x: 445.5, y: -705}
+      - {x: 446.5, y: -705}
+      - {x: 449.5, y: -703}
+      - {x: 449.5, y: -706}
+      - {x: 450.5, y: -707}
+      - {x: 449.5, y: -709}
+      - {x: 449.5, y: -708}
+    - - {x: 459.5, y: -703}
+      - {x: 462.5, y: -705}
+      - {x: 463.5, y: -705}
+      - {x: 459.5, y: -709}
+    - - {x: -449.5, y: -692}
+      - {x: -449.5, y: -688}
+      - {x: -450.5, y: -682}
+      - {x: -451.5, y: -680}
+      - {x: -448.5, y: -681}
+      - {x: -430.5, y: -680}
+      - {x: -431.5, y: -679}
+      - {x: -436.5, y: -684}
+      - {x: -437.5, y: -684}
+      - {x: -443.5, y: -689}
+      - {x: -448.5, y: -694}
+    - - {x: 311.5, y: -648}
+      - {x: 312.5, y: -658}
+      - {x: 230.5, y: -593}
+      - {x: 218.5, y: -593}
+      - {x: 214.5, y: -594}
+      - {x: 214.5, y: -608}
+      - {x: 222.5, y: -647}
+      - {x: 254.5, y: -695}
+      - {x: 335.5, y: -695}
+      - {x: 349.5, y: -689}
+      - {x: 349.5, y: -645}
+      - {x: 315.5, y: -642}
+    - - {x: 354.5, y: -620}
+      - {x: 349.5, y: -621}
+      - {x: 349.5, y: -676}
+      - {x: 356.5, y: -686}
+      - {x: 412.5, y: -686}
+      - {x: 415.5, y: -676}
+      - {x: 415.5, y: -627}
+      - {x: 411.5, y: -620}
+    - - {x: -453.5, y: -668}
+      - {x: -453.5, y: -669}
+      - {x: -449.5, y: -665}
+      - {x: -448.5, y: -665}
+      - {x: -442.5, y: -660}
+      - {x: -439.5, y: -657}
+      - {x: -429.5, y: -670}
+      - {x: -442.5, y: -668}
+    - - {x: 382.5, y: -659}
+      - {x: 381.5, y: -659}
+      - {x: 381.5, y: -667}
+      - {x: 382.5, y: -667}
+    - - {x: -455.5, y: -654}
+      - {x: -456.5, y: -653}
+      - {x: -452.5, y: -653}
+      - {x: -456.5, y: -657}
+      - {x: -455.5, y: -657}
+    - - {x: 375.5, y: -653}
+      - {x: 375.5, y: -652}
+      - {x: 368.5, y: -652}
+      - {x: 368.5, y: -653}
+    - - {x: 396.5, y: -653}
+      - {x: 396.5, y: -652}
+      - {x: 387.5, y: -652}
+      - {x: 387.5, y: -653}
+    - - {x: 382.5, y: -639}
+      - {x: 381.5, y: -639}
+      - {x: 381.5, y: -646}
+      - {x: 382.5, y: -646}
+    - - {x: 23.5, y: -547}
+      - {x: 5.5, y: -552}
+      - {x: 5.5, y: -633}
+      - {x: 88.5, y: -633}
+      - {x: 90.5, y: -628}
+      - {x: 90.5, y: -556}
+      - {x: 76.5, y: -547}
+    - - {x: 192.5, y: -596}
+      - {x: 108.5, y: -596}
+      - {x: 94.5, y: -598}
+      - {x: 92.5, y: -601}
+      - {x: 92.5, y: -615}
+      - {x: 93.5, y: -621}
+      - {x: 117.5, y: -625}
+      - {x: 206.5, y: -625}
+      - {x: 214.5, y: -615}
+      - {x: 214.5, y: -607}
+    - - {x: 347.5, y: -564}
+      - {x: 346.5, y: -572}
+      - {x: 346.5, y: -607}
+      - {x: 351.5, y: -618}
+      - {x: 409.5, y: -618}
+      - {x: 412.5, y: -617}
+      - {x: 412.5, y: -563}
+      - {x: 391.5, y: -552}
+      - {x: 368.5, y: -552}
+      - {x: 366.5, y: -553}
+    - - {x: 320.5, y: -303}
+      - {x: 308.5, y: -300}
+      - {x: 304.5, y: -300}
+      - {x: 312.5, y: -300}
+      - {x: 327.5, y: -299}
+      - {x: 365.5, y: -290}
+      - {x: 365.5, y: -48}
+      - {x: 347.5, y: -36}
+      - {x: 261.5, y: -36}
+      - {x: 228.5, y: -51}
+      - {x: 227.5, y: -132}
+      - {x: 258.5, y: -161}
+      - {x: 276.5, y: -168}
+      - {x: 285.5, y: -170}
+      - {x: 289.5, y: -170}
+      - {x: 280.5, y: -170}
+      - {x: 275.5, y: -169}
+      - {x: 249.5, y: -182}
+      - {x: 226.5, y: -217}
+      - {x: 226.5, y: -253}
+      - {x: 252.5, y: -290}
+      - {x: 274.5, y: -299}
+      - {x: 280.5, y: -300}
+      - {x: 287.5, y: -300}
+      - {x: 269.5, y: -300}
+      - {x: 225.5, y: -337}
+      - {x: 224.5, y: -394}
+      - {x: 244.5, y: -412}
+      - {x: 257.5, y: -422}
+      - {x: 265.5, y: -427}
+      - {x: 227.5, y: -468}
+      - {x: 227.5, y: -473}
+      - {x: 230.5, y: -504}
+      - {x: 237.5, y: -508}
+      - {x: 222.5, y: -516}
+      - {x: 220.5, y: -518}
+      - {x: 220.5, y: -598}
+      - {x: 236.5, y: -616}
+      - {x: 352.5, y: -616}
+      - {x: 365.5, y: -601}
+      - {x: 365.5, y: -329}
+      - {x: 342.5, y: -313}
+    - - {x: 380.5, y: -592}
+      - {x: 379.5, y: -592}
+      - {x: 379.5, y: -601}
+      - {x: 380.5, y: -601}
+    - - {x: -410.5, y: -463}
+      - {x: -485.5, y: -463}
+      - {x: -504.5, y: -489}
+      - {x: -504.5, y: -578}
+      - {x: -474.5, y: -597}
+      - {x: -401.5, y: -597}
+      - {x: -372.5, y: -553}
+      - {x: -372.5, y: -478}
+    - - {x: -285.5, y: -195}
+      - {x: -309.5, y: -202}
+      - {x: -374.5, y: -304}
+      - {x: -374.5, y: -384}
+      - {x: -338.5, y: -384}
+      - {x: -363.5, y: -386}
+      - {x: -374.5, y: -390}
+      - {x: -374.5, y: -581}
+      - {x: -347.5, y: -597}
+      - {x: -131.5, y: -597}
+      - {x: -130.5, y: -592}
+      - {x: -130.5, y: -219}
+      - {x: -158.5, y: -195}
+    - - {x: -103.5, y: -461}
+      - {x: -103.5, y: -589}
+      - {x: -101.5, y: -593}
+      - {x: -86.5, y: -593}
+      - {x: -62.5, y: -590}
+      - {x: -40.5, y: -570}
+      - {x: -40.5, y: -494}
+      - {x: -49.5, y: -461}
+    - - {x: -40.5, y: -513}
+      - {x: -17.5, y: -593}
+      - {x: 5.5, y: -593}
+      - {x: 5.5, y: -502}
+      - {x: -1.5, y: -459}
+      - {x: -39.5, y: -459}
+      - {x: -40.5, y: -461}
+    - - {x: 92.5, y: -563}
+      - {x: 133.5, y: -593}
+      - {x: 176.5, y: -593}
+      - {x: 217.5, y: -573}
+      - {x: 217.5, y: -488}
+      - {x: 117.5, y: -488}
+      - {x: 92.5, y: -492}
+    - - {x: 373.5, y: -586}
+      - {x: 373.5, y: -585}
+      - {x: 364.5, y: -585}
+      - {x: 364.5, y: -586}
+    - - {x: 395.5, y: -586}
+      - {x: 395.5, y: -585}
+      - {x: 385.5, y: -585}
+      - {x: 385.5, y: -586}
+    - - {x: 380.5, y: -570}
+      - {x: 379.5, y: -570}
+      - {x: 379.5, y: -579}
+      - {x: 380.5, y: -579}
+    - - {x: -372.5, y: -573}
+      - {x: -343.5, y: -573}
+      - {x: -343.5, y: -517}
+      - {x: -349.5, y: -445}
+      - {x: -350.5, y: -444}
+      - {x: -370.5, y: -444}
+      - {x: -372.5, y: -458}
+    - - {x: -290.5, y: -555}
+      - {x: -289.5, y: -556}
+      - {x: -284.5, y: -559}
+      - {x: -281.5, y: -559}
+      - {x: -281.5, y: -558}
+      - {x: -282.5, y: -557}
+    - - {x: -445.5, y: -554}
+      - {x: -445.5, y: -555}
+      - {x: -443.5, y: -553}
+      - {x: -437.5, y: -552}
+      - {x: -432.5, y: -554}
+      - {x: -435.5, y: -554}
+      - {x: -436.5, y: -555}
+      - {x: -441.5, y: -555}
+      - {x: -442.5, y: -554}
+    - - {x: 465.5, y: -484}
+      - {x: 359.5, y: -484}
+      - {x: 358.5, y: -486}
+      - {x: 358.5, y: -544}
+      - {x: 364.5, y: -552}
+      - {x: 427.5, y: -552}
+      - {x: 463.5, y: -545}
+      - {x: 484.5, y: -523}
+      - {x: 484.5, y: -497}
+    - - {x: -421.5, y: -543}
+      - {x: -420.5, y: -542}
+      - {x: -418.5, y: -539}
+      - {x: -415.5, y: -537}
+      - {x: -416.5, y: -537}
+      - {x: -417.5, y: -542}
+      - {x: -422.5, y: -549}
+      - {x: -421.5, y: -549}
+    - - {x: -459.5, y: -544}
+      - {x: -462.5, y: -537}
+      - {x: -457.5, y: -542}
+      - {x: -456.5, y: -548}
+      - {x: -456.5, y: -547}
+    - - {x: -299.5, y: -540}
+      - {x: -302.5, y: -538}
+      - {x: -303.5, y: -538}
+      - {x: -302.5, y: -542}
+      - {x: -299.5, y: -546}
+      - {x: -298.5, y: -547}
+    - - {x: -248.5, y: -541}
+      - {x: -248.5, y: -538}
+      - {x: -252.5, y: -546}
+      - {x: -251.5, y: -546}
+    - - {x: 19.5, y: -458}
+      - {x: 3.5, y: -462}
+      - {x: 3.5, y: -522}
+      - {x: 16.5, y: -547}
+      - {x: 83.5, y: -547}
+      - {x: 92.5, y: -524}
+      - {x: 92.5, y: -470}
+      - {x: 87.5, y: -458}
+    - - {x: -299.5, y: -523}
+      - {x: -298.5, y: -517}
+      - {x: -299.5, y: -516}
+      - {x: -302.5, y: -520}
+      - {x: -303.5, y: -525}
+      - {x: -302.5, y: -527}
+    - - {x: -248.5, y: -522}
+      - {x: -252.5, y: -517}
+      - {x: -250.5, y: -521}
+      - {x: -248.5, y: -527}
+      - {x: -247.5, y: -525}
+    - - {x: -462.5, y: -522}
+      - {x: -456.5, y: -513}
+      - {x: -461.5, y: -523}
+      - {x: -462.5, y: -524}
+    - - {x: -418.5, y: -522}
+      - {x: -422.5, y: -513}
+      - {x: -416.5, y: -522}
+      - {x: -416.5, y: -524}
+      - {x: -415.5, y: -524}
+      - {x: -416.5, y: -523}
+    - - {x: -444.5, y: -507}
+      - {x: -445.5, y: -506}
+      - {x: -444.5, y: -507}
+      - {x: -443.5, y: -506}
+      - {x: -432.5, y: -506}
+      - {x: -436.5, y: -508}
+      - {x: -442.5, y: -508}
+      - {x: -443.5, y: -507}
+    - - {x: -282.5, y: -506}
+      - {x: -281.5, y: -505}
+      - {x: -281.5, y: -504}
+      - {x: -284.5, y: -504}
+      - {x: -291.5, y: -508}
+      - {x: -290.5, y: -509}
+    - - {x: 208.5, y: -410}
+      - {x: 231.5, y: -361}
+      - {x: 231.5, y: -298}
+      - {x: 218.5, y: -254}
+      - {x: 185.5, y: -249}
+      - {x: 157.5, y: -249}
+      - {x: 148.5, y: -250}
+      - {x: 133.5, y: -254}
+      - {x: 137.5, y: -247}
+      - {x: 153.5, y: -249}
+      - {x: 175.5, y: -249}
+      - {x: 190.5, y: -246}
+      - {x: 225.5, y: -236}
+      - {x: 231.5, y: -208}
+      - {x: 231.5, y: -96}
+      - {x: 138.5, y: 17}
+      - {x: -13.5, y: 17}
+      - {x: -34.5, y: -21}
+      - {x: -31.5, y: -76}
+      - {x: -49.5, y: -60}
+      - {x: -124.5, y: -60}
+      - {x: -130.5, y: -119}
+      - {x: -130.5, y: -390}
+      - {x: -64.5, y: -423}
+      - {x: -40.5, y: -380}
+      - {x: -34.5, y: -331}
+      - {x: -47.5, y: -303}
+      - {x: -34.5, y: -239}
+      - {x: -33.5, y: -199}
+      - {x: -37.5, y: -197}
+      - {x: -34.5, y: -193}
+      - {x: -30.5, y: -206}
+      - {x: -33.5, y: -210}
+      - {x: -32.5, y: -218}
+      - {x: -30.5, y: -225}
+      - {x: -34.5, y: -294}
+      - {x: -35.5, y: -323}
+      - {x: -26.5, y: -349}
+      - {x: -24.5, y: -413}
+      - {x: 101.5, y: -486}
+      - {x: 104.5, y: -487}
+      - {x: 216.5, y: -487}
+      - {x: 231.5, y: -471}
+      - {x: 231.5, y: -429}
+      - {x: 227.5, y: -421}
+    - - {x: 404.5, y: -86}
+      - {x: 361.5, y: -106}
+      - {x: 361.5, y: -456}
+      - {x: 396.5, y: -484}
+      - {x: 457.5, y: -484}
+      - {x: 480.5, y: -477}
+      - {x: 497.5, y: -448}
+      - {x: 497.5, y: -86}
+    - - {x: -404.5, y: -333}
+      - {x: -481.5, y: -333}
+      - {x: -504.5, y: -353}
+      - {x: -504.5, y: -428}
+      - {x: -484.5, y: -463}
+      - {x: -392.5, y: -463}
+      - {x: -374.5, y: -429}
+      - {x: -374.5, y: -357}
+      - {x: -381.5, y: -346}
+    - - {x: -124.5, y: -385}
+      - {x: -130.5, y: -395}
+      - {x: -130.5, y: -441}
+      - {x: -128.5, y: -450}
+      - {x: -117.5, y: -459}
+      - {x: -80.5, y: -459}
+      - {x: -10.5, y: -432}
+      - {x: -10.5, y: -410}
+      - {x: -72.5, y: -385}
+    - - {x: -203.5, y: -433}
+      - {x: -203.5, y: -431}
+      - {x: -204.5, y: -430}
+      - {x: -204.5, y: -426}
+      - {x: -200.5, y: -422}
+      - {x: -195.5, y: -421}
+      - {x: -191.5, y: -425}
+      - {x: -190.5, y: -430}
+      - {x: -191.5, y: -431}
+      - {x: -191.5, y: -433}
+      - {x: -194.5, y: -435}
+      - {x: -200.5, y: -435}
+      - {x: -201.5, y: -434}
+    - - {x: -228.5, y: -422}
+      - {x: -228.5, y: -415}
+      - {x: -224.5, y: -411}
+      - {x: -219.5, y: -411}
+      - {x: -215.5, y: -415}
+      - {x: -215.5, y: -422}
+      - {x: -219.5, y: -425}
+      - {x: -224.5, y: -425}
+      - {x: -225.5, y: -424}
+    - - {x: -179.5, y: -422}
+      - {x: -179.5, y: -415}
+      - {x: -175.5, y: -411}
+      - {x: -170.5, y: -411}
+      - {x: -166.5, y: -415}
+      - {x: -166.5, y: -422}
+      - {x: -170.5, y: -425}
+      - {x: -175.5, y: -425}
+      - {x: -176.5, y: -424}
+    - - {x: 99.5, y: -408}
+      - {x: 112.5, y: -411}
+      - {x: 228.5, y: -411}
+      - {x: 228.5, y: -382}
+      - {x: 140.5, y: -382}
+      - {x: 100.5, y: -388}
+      - {x: 99.5, y: -392}
+    - - {x: -261.5, y: -387}
+      - {x: -259.5, y: -387}
+      - {x: -256.5, y: -390}
+      - {x: -256.5, y: -397}
+      - {x: -259.5, y: -400}
+      - {x: -261.5, y: -400}
+    - - {x: -239.5, y: -393}
+      - {x: -228.5, y: -387}
+      - {x: -225.5, y: -397}
+      - {x: -228.5, y: -400}
+    - - {x: -169.5, y: -397}
+      - {x: -169.5, y: -390}
+      - {x: -166.5, y: -387}
+      - {x: -159.5, y: -387}
+      - {x: -157.5, y: -389}
+      - {x: -155.5, y: -394}
+      - {x: -158.5, y: -399}
+      - {x: -159.5, y: -400}
+      - {x: -166.5, y: -400}
+      - {x: -166.5, y: -399}
+    - - {x: -228.5, y: -372}
+      - {x: -228.5, y: -366}
+      - {x: -224.5, y: -362}
+      - {x: -219.5, y: -362}
+      - {x: -215.5, y: -366}
+      - {x: -215.5, y: -372}
+      - {x: -218.5, y: -375}
+      - {x: -223.5, y: -376}
+      - {x: -225.5, y: -375}
+    - - {x: -179.5, y: -372}
+      - {x: -179.5, y: -366}
+      - {x: -175.5, y: -362}
+      - {x: -170.5, y: -362}
+      - {x: -166.5, y: -366}
+      - {x: -166.5, y: -372}
+      - {x: -169.5, y: -375}
+      - {x: -174.5, y: -376}
+      - {x: -176.5, y: -375}
+    - - {x: -341.5, y: -365}
+      - {x: -344.5, y: -358}
+      - {x: -347.5, y: -356}
+      - {x: -347.5, y: -357}
+      - {x: -345.5, y: -357}
+      - {x: -338.5, y: -350}
+      - {x: -338.5, y: -348}
+      - {x: -339.5, y: -374}
+    - - {x: -201.5, y: -365}
+      - {x: -204.5, y: -361}
+      - {x: -204.5, y: -357}
+      - {x: -203.5, y: -356}
+      - {x: -203.5, y: -354}
+      - {x: -200.5, y: -352}
+      - {x: -194.5, y: -352}
+      - {x: -191.5, y: -354}
+      - {x: -191.5, y: -356}
+      - {x: -190.5, y: -357}
+      - {x: -190.5, y: -361}
+      - {x: -194.5, y: -365}
+      - {x: -199.5, y: -366}
+      - {x: -200.5, y: -365}
+    - - {x: 18.5, y: -344}
+      - {x: 14.5, y: -341}
+      - {x: 12.5, y: -339}
+      - {x: 16.5, y: -336}
+      - {x: 20.5, y: -339}
+      - {x: 25.5, y: -342}
+      - {x: 32.5, y: -348}
+      - {x: 27.5, y: -346}
+    - - {x: 43.5, y: -343}
+      - {x: 41.5, y: -340}
+      - {x: 48.5, y: -338}
+      - {x: 53.5, y: -333}
+      - {x: 61.5, y: -332}
+      - {x: 59.5, y: -334}
+      - {x: 59.5, y: -335}
+      - {x: 52.5, y: -341}
+      - {x: 45.5, y: -345}
+      - {x: 43.5, y: -345}
+    - - {x: -203.5, y: -331}
+      - {x: -205.5, y: -328}
+      - {x: -204.5, y: -330}
+      - {x: -191.5, y: -330}
+      - {x: -189.5, y: -328}
+      - {x: -191.5, y: -331}
+      - {x: -195.5, y: -335}
+      - {x: -199.5, y: -335}
+    - - {x: -494.5, y: -336}
+      - {x: -271.5, y: -336}
+      - {x: -262.5, y: -313}
+      - {x: -262.5, y: -94}
+      - {x: -416.5, y: -94}
+      - {x: -504.5, y: -114}
+      - {x: -504.5, y: -326}
+    - - {x: 3.5, y: -329}
+      - {x: 3.5, y: -327}
+      - {x: 1.5, y: -319}
+      - {x: 0.5, y: -318}
+      - {x: 0.5, y: -309}
+      - {x: 6.5, y: -311}
+      - {x: 6.5, y: -320}
+      - {x: 8.5, y: -324}
+      - {x: 4.5, y: -331}
+      - {x: 5.5, y: -331}
+    - - {x: 60.5, y: -320}
+      - {x: 60.5, y: -318}
+      - {x: 61.5, y: -317}
+      - {x: 61.5, y: -312}
+      - {x: 60.5, y: -311}
+      - {x: 60.5, y: -306}
+      - {x: 59.5, y: -305}
+      - {x: 59.5, y: -303}
+      - {x: 62.5, y: -298}
+      - {x: 63.5, y: -301}
+      - {x: 63.5, y: -303}
+      - {x: 64.5, y: -304}
+      - {x: 64.5, y: -307}
+      - {x: 65.5, y: -308}
+      - {x: 65.5, y: -320}
+      - {x: 64.5, y: -321}
+      - {x: 62.5, y: -320}
+    - - {x: -361.5, y: -201}
+      - {x: -367.5, y: -207}
+      - {x: -372.5, y: -256}
+      - {x: -372.5, y: -307}
+      - {x: -362.5, y: -321}
+      - {x: -344.5, y: -321}
+      - {x: -334.5, y: -310}
+      - {x: -334.5, y: -215}
+      - {x: -338.5, y: -201}
+    - - {x: 6.5, y: -297}
+      - {x: 7.5, y: -294}
+      - {x: 12.5, y: -289}
+      - {x: 21.5, y: -284}
+      - {x: 21.5, y: -285}
+      - {x: 23.5, y: -290}
+      - {x: 18.5, y: -291}
+      - {x: 13.5, y: -297}
+      - {x: 10.5, y: -297}
+      - {x: 9.5, y: -298}
+      - {x: 4.5, y: -298}
+    - - {x: 46.5, y: -290}
+      - {x: 41.5, y: -288}
+      - {x: 38.5, y: -287}
+      - {x: 35.5, y: -285}
+      - {x: 33.5, y: -282}
+      - {x: 40.5, y: -283}
+      - {x: 48.5, y: -285}
+      - {x: 55.5, y: -290}
+      - {x: 51.5, y: -294}
+      - {x: 50.5, y: -293}
+    - - {x: -445.5, y: -291}
+      - {x: -443.5, y: -290}
+      - {x: -438.5, y: -288}
+      - {x: -437.5, y: -289}
+      - {x: -435.5, y: -289}
+      - {x: -432.5, y: -290}
+      - {x: -435.5, y: -290}
+      - {x: -436.5, y: -291}
+      - {x: -441.5, y: -291}
+      - {x: -442.5, y: -290}
+    - - {x: -421.5, y: -279}
+      - {x: -419.5, y: -276}
+      - {x: -415.5, y: -273}
+      - {x: -416.5, y: -273}
+      - {x: -416.5, y: -275}
+      - {x: -417.5, y: -276}
+      - {x: -418.5, y: -280}
+      - {x: -422.5, y: -285}
+      - {x: -421.5, y: -285}
+    - - {x: -460.5, y: -279}
+      - {x: -460.5, y: -277}
+      - {x: -462.5, y: -273}
+      - {x: -460.5, y: -275}
+      - {x: -458.5, y: -276}
+      - {x: -457.5, y: -280}
+      - {x: -456.5, y: -281}
+      - {x: -456.5, y: -284}
+      - {x: -456.5, y: -283}
+    - - {x: -461.5, y: -259}
+      - {x: -459.5, y: -254}
+      - {x: -456.5, y: -251}
+      - {x: -456.5, y: -249}
+      - {x: -457.5, y: -256}
+      - {x: -459.5, y: -258}
+      - {x: -462.5, y: -260}
+    - - {x: -420.5, y: -256}
+      - {x: -421.5, y: -255}
+      - {x: -422.5, y: -249}
+      - {x: -419.5, y: -253}
+      - {x: -416.5, y: -258}
+      - {x: -416.5, y: -260}
+      - {x: -416.5, y: -259}
+    - - {x: -444.5, y: -242}
+      - {x: -444.5, y: -243}
+      - {x: -442.5, y: -243}
+      - {x: -436.5, y: -242}
+      - {x: -435.5, y: -243}
+      - {x: -432.5, y: -243}
+      - {x: -432.5, y: -242}
+      - {x: -435.5, y: -244}
+      - {x: -442.5, y: -244}
+      - {x: -442.5, y: -243}
+    - - {x: 148.5, y: -207}
+      - {x: 155.5, y: -205}
+      - {x: 159.5, y: -207}
+      - {x: 169.5, y: -207}
+      - {x: 175.5, y: -205}
+      - {x: 180.5, y: -207}
+      - {x: 172.5, y: -210}
+      - {x: 171.5, y: -211}
+      - {x: 157.5, y: -211}
+      - {x: 156.5, y: -210}
+    - - {x: -264.5, y: -112}
+      - {x: -254.5, y: -197}
+      - {x: -130.5, y: -197}
+      - {x: -130.5, y: -147}
+      - {x: -179.5, y: -84}
+      - {x: -235.5, y: -63}
+      - {x: -258.5, y: -63}
+      - {x: -264.5, y: -66}
+    - - {x: 135.5, y: -189}
+      - {x: 136.5, y: -176}
+      - {x: 136.5, y: -174}
+      - {x: 139.5, y: -168}
+      - {x: 150.5, y: -156}
+      - {x: 152.5, y: -155}
+      - {x: 149.5, y: -162}
+      - {x: 144.5, y: -167}
+      - {x: 140.5, y: -174}
+      - {x: 139.5, y: -177}
+      - {x: 139.5, y: -187}
+      - {x: 136.5, y: -191}
+    - - {x: 193.5, y: -190}
+      - {x: 190.5, y: -186}
+      - {x: 190.5, y: -173}
+      - {x: 176.5, y: -156}
+      - {x: 175.5, y: -156}
+      - {x: 174.5, y: -154}
+      - {x: 175.5, y: -155}
+      - {x: 179.5, y: -156}
+      - {x: 192.5, y: -175}
+      - {x: 193.5, y: -189}
+      - {x: 192.5, y: -190}
+      - {x: 193.5, y: -191}
+    - - {x: -93.5, y: -179}
+      - {x: -93.5, y: -185}
+    - - {x: -83.5, y: -179}
+      - {x: -84.5, y: -179}
+      - {x: -83.5, y: -185}
+    - - {x: -73.5, y: -179}
+      - {x: -73.5, y: -184}
+      - {x: -74.5, y: -185}
+      - {x: -73.5, y: -185}
+    - - {x: 299.5, y: -138}
+      - {x: 298.5, y: -137}
+      - {x: 298.5, y: -132}
+      - {x: 297.5, y: -131}
+      - {x: 297.5, y: -128}
+      - {x: 298.5, y: -127}
+      - {x: 300.5, y: -128}
+      - {x: 300.5, y: -132}
+      - {x: 299.5, y: -133}
+      - {x: 299.5, y: -137}
+      - {x: 298.5, y: -138}
+      - {x: 299.5, y: -142}
+    - - {x: 281.5, y: -139}
+      - {x: 283.5, y: -138}
+      - {x: 285.5, y: -136}
+      - {x: 285.5, y: -140}
+      - {x: 286.5, y: -141}
+      - {x: 285.5, y: -140}
+    - - {x: 312.5, y: -140}
+      - {x: 312.5, y: -136}
+      - {x: 316.5, y: -139}
+      - {x: 311.5, y: -141}
+    - - {x: -267.5, y: -61}
+      - {x: -268.5, y: -24}
+      - {x: -271.5, y: -3}
+      - {x: -307.5, y: -3}
+      - {x: -312.5, y: -20}
+      - {x: -312.5, y: -133}
+      - {x: -264.5, y: -133}
+      - {x: -262.5, y: -132}
+      - {x: -262.5, y: -95}
+      - {x: -263.5, y: -65}
+    - - {x: 272.5, y: -130}
+      - {x: 274.5, y: -129}
+      - {x: 280.5, y: -119}
+      - {x: 282.5, y: -120}
+      - {x: 280.5, y: -124}
+      - {x: 273.5, y: -129}
+      - {x: 271.5, y: -131}
+      - {x: 272.5, y: -131}
+    - - {x: 321.5, y: -127}
+      - {x: 315.5, y: -123}
+      - {x: 315.5, y: -120}
+      - {x: 318.5, y: -121}
+      - {x: 323.5, y: -128}
+      - {x: 326.5, y: -131}
+      - {x: 326.5, y: -130}
+    - - {x: 261.5, y: -116}
+      - {x: 267.5, y: -116}
+      - {x: 263.5, y: -121}
+      - {x: 264.5, y: -121}
+    - - {x: 331.5, y: -117}
+      - {x: 336.5, y: -117}
+      - {x: 336.5, y: -116}
+      - {x: 333.5, y: -121}
+      - {x: 334.5, y: -121}
+    - - {x: 104.5, y: 17}
+      - {x: 104.5, y: -117}
+      - {x: 231.5, y: -117}
+      - {x: 231.5, y: 17}
+    - - {x: 268.5, y: -104}
+      - {x: 267.5, y: -103}
+      - {x: 259.5, y: -103}
+      - {x: 262.5, y: -104}
+      - {x: 263.5, y: -103}
+      - {x: 267.5, y: -103}
+      - {x: 268.5, y: -102}
+      - {x: 273.5, y: -102}
+      - {x: 274.5, y: -101}
+      - {x: 275.5, y: -102}
+      - {x: 275.5, y: -105}
+      - {x: 273.5, y: -104}
+    - - {x: 322.5, y: -103}
+      - {x: 323.5, y: -102}
+      - {x: 327.5, y: -102}
+      - {x: 328.5, y: -103}
+      - {x: 332.5, y: -103}
+      - {x: 333.5, y: -104}
+      - {x: 337.5, y: -104}
+      - {x: 337.5, y: -103}
+      - {x: 334.5, y: -103}
+      - {x: 333.5, y: -104}
+      - {x: 329.5, y: -104}
+      - {x: 328.5, y: -105}
+      - {x: 323.5, y: -105}
+    - - {x: -372.5, y: -1}
+      - {x: -460.5, y: -1}
+      - {x: -504.5, y: -73}
+      - {x: -504.5, y: -94}
+      - {x: -312.5, y: -94}
+      - {x: -312.5, y: -24}
+      - {x: -320.5, y: -5}
+    - - {x: 331.5, y: -90}
+      - {x: 334.5, y: -88}
+      - {x: 334.5, y: -86}
+      - {x: 336.5, y: -91}
+      - {x: 335.5, y: -90}
+    - - {x: 264.5, y: -86}
+      - {x: 263.5, y: -86}
+      - {x: 266.5, y: -90}
+      - {x: 265.5, y: -89}
+      - {x: 264.5, y: -90}
+      - {x: 261.5, y: -91}
+      - {x: 262.5, y: -91}
+    - - {x: 277.5, y: -84}
+      - {x: 277.5, y: -83}
+      - {x: 271.5, y: -75}
+      - {x: 271.5, y: -76}
+      - {x: 273.5, y: -79}
+      - {x: 277.5, y: -81}
+      - {x: 283.5, y: -85}
+      - {x: 282.5, y: -86}
+      - {x: 280.5, y: -87}
+    - - {x: 315.5, y: -84}
+      - {x: 318.5, y: -82}
+      - {x: 319.5, y: -82}
+      - {x: 321.5, y: -80}
+      - {x: 322.5, y: -80}
+      - {x: 326.5, y: -77}
+      - {x: 326.5, y: -76}
+      - {x: 324.5, y: -77}
+      - {x: 322.5, y: -81}
+      - {x: 318.5, y: -87}
+      - {x: 316.5, y: -87}
+    - - {x: 484.5, y: 19}
+      - {x: 418.5, y: 19}
+      - {x: 381.5, y: -22}
+      - {x: 381.5, y: -63}
+      - {x: 402.5, y: -86}
+      - {x: 474.5, y: -86}
+      - {x: 496.5, y: -80}
+      - {x: 504.5, y: -68}
+      - {x: 504.5, y: -9}
+    - - {x: 37.5, y: -77}
+      - {x: 36.5, y: -76}
+      - {x: 36.5, y: -72}
+      - {x: 35.5, y: -71}
+      - {x: 36.5, y: -70}
+      - {x: 37.5, y: -71}
+      - {x: 36.5, y: -74}
+      - {x: 36.5, y: -79}
+      - {x: 35.5, y: -80}
+      - {x: 36.5, y: -82}
+      - {x: 37.5, y: -81}
+    - - {x: 23.5, y: -79}
+      - {x: 23.5, y: -80}
+      - {x: 25.5, y: -78}
+      - {x: 25.5, y: -80}
+      - {x: 24.5, y: -79}
+    - - {x: 47.5, y: -78}
+      - {x: 49.5, y: -79}
+      - {x: 48.5, y: -79}
+      - {x: 47.5, y: -80}
+      - {x: 48.5, y: -80}
+    - - {x: 298.5, y: -78}
+      - {x: 298.5, y: -74}
+      - {x: 299.5, y: -73}
+      - {x: 299.5, y: -64}
+      - {x: 299.5, y: -71}
+      - {x: 300.5, y: -72}
+      - {x: 300.5, y: -77}
+      - {x: 301.5, y: -79}
+      - {x: 300.5, y: -80}
+      - {x: 298.5, y: -80}
+      - {x: 297.5, y: -79}
+    - - {x: -463.5, y: -65}
+      - {x: -457.5, y: -71}
+      - {x: -451.5, y: -76}
+      - {x: -450.5, y: -76}
+      - {x: -447.5, y: -79}
+      - {x: -446.5, y: -78}
+      - {x: -467.5, y: -77}
+      - {x: -468.5, y: -76}
+    - - {x: 16.5, y: -71}
+      - {x: 19.5, y: -68}
+      - {x: 21.5, y: -64}
+      - {x: 22.5, y: -64}
+      - {x: 22.5, y: -66}
+      - {x: 20.5, y: -67}
+      - {x: 16.5, y: -70}
+      - {x: 14.5, y: -72}
+      - {x: 15.5, y: -73}
+    - - {x: 57.5, y: -71}
+      - {x: 50.5, y: -66}
+      - {x: 52.5, y: -64}
+      - {x: 54.5, y: -68}
+      - {x: 56.5, y: -70}
+      - {x: 56.5, y: -71}
+      - {x: 59.5, y: -73}
+      - {x: 58.5, y: -71}
+    - - {x: 281.5, y: -68}
+      - {x: 284.5, y: -67}
+      - {x: 286.5, y: -67}
+      - {x: 287.5, y: -66}
+      - {x: 286.5, y: -70}
+      - {x: 285.5, y: -71}
+      - {x: 286.5, y: -72}
+      - {x: 286.5, y: -71}
+    - - {x: 312.5, y: -67}
+      - {x: 313.5, y: -67}
+      - {x: 316.5, y: -69}
+      - {x: 316.5, y: -68}
+      - {x: 312.5, y: -71}
+      - {x: 313.5, y: -71}
+    - - {x: 6.5, y: -61}
+      - {x: 9.5, y: -61}
+      - {x: 6.5, y: -64}
+      - {x: 7.5, y: -65}
+      - {x: 8.5, y: -64}
+    - - {x: 64.5, y: -62}
+      - {x: 66.5, y: -61}
+      - {x: 65.5, y: -62}
+      - {x: 65.5, y: -63}
+      - {x: 65.5, y: -62}
+    - - {x: -262.5, y: 19}
+      - {x: -262.5, y: -21}
+      - {x: -204.5, y: -63}
+      - {x: -34.5, y: -63}
+      - {x: -30.5, y: -59}
+      - {x: -30.5, y: -26}
+      - {x: -125.5, y: 19}
+    - - {x: 6.5, y: -50}
+      - {x: 16.5, y: -49}
+      - {x: 16.5, y: -51}
+      - {x: 15.5, y: -50}
+    - - {x: 57.5, y: -49}
+      - {x: 58.5, y: -50}
+      - {x: 68.5, y: -50}
+      - {x: 67.5, y: -49}
+      - {x: 66.5, y: -50}
+      - {x: 61.5, y: -50}
+      - {x: 60.5, y: -51}
+      - {x: 57.5, y: -51}
+    - - {x: 64.5, y: -39}
+      - {x: 66.5, y: -37}
+      - {x: 65.5, y: -37}
+      - {x: 66.5, y: -39}
+      - {x: 66.5, y: -38}
+    - - {x: 7.5, y: -37}
+      - {x: 9.5, y: -39}
+      - {x: 7.5, y: -38}
+    - - {x: 14.5, y: -28}
+      - {x: 15.5, y: -30}
+      - {x: 16.5, y: -30}
+      - {x: 23.5, y: -35}
+      - {x: 21.5, y: -36}
+    - - {x: 51.5, y: -34}
+      - {x: 52.5, y: -34}
+      - {x: 56.5, y: -31}
+      - {x: 58.5, y: -29}
+      - {x: 56.5, y: -29}
+      - {x: 54.5, y: -33}
+      - {x: 52.5, y: -36}
+      - {x: 51.5, y: -36}
+    - - {x: 380.5, y: 4}
+      - {x: 334.5, y: 22}
+      - {x: 322.5, y: 22}
+      - {x: 231.5, y: -20}
+      - {x: 231.5, y: -38}
+      - {x: 264.5, y: -38}
+      - {x: 297.5, y: -35}
+      - {x: 309.5, y: -32}
+      - {x: 380.5, y: -8}
+    - - {x: 36.5, y: -27}
+      - {x: 37.5, y: -26}
+      - {x: 37.5, y: -20}
+      - {x: 37.5, y: -30}
+      - {x: 36.5, y: -29}
+    - - {x: -219.5, y: -23}
+      - {x: -216.5, y: -23}
+      - {x: -215.5, y: -24}
+      - {x: -214.5, y: -27}
+      - {x: -214.5, y: -26}
+    - - {x: 23.5, y: -21}
+      - {x: 25.5, y: -20}
+      - {x: 25.5, y: -22}
+      - {x: 24.5, y: -21}
+    - - {x: 48.5, y: -21}
+      - {x: 50.5, y: -21}
+      - {x: 48.5, y: -22}
+      - {x: 49.5, y: -22}
+    - - {x: -504.5, y: 98}
+      - {x: -504.5, y: 29}
+      - {x: -486.5, y: -3}
+      - {x: -262.5, y: -3}
+      - {x: -262.5, y: 98}
+    - - {x: -10.5, y: 116}
+      - {x: -10.5, y: 29}
+      - {x: 83.5, y: 15}
+      - {x: 233.5, y: 15}
+      - {x: 233.5, y: 116}
+    - - {x: -250.5, y: 73}
+      - {x: -249.5, y: 38}
+      - {x: -240.5, y: 21}
+      - {x: -72.5, y: 21}
+      - {x: -8.5, y: 54}
+      - {x: -8.5, y: 117}
+      - {x: -18.5, y: 122}
+      - {x: -187.5, y: 139}
+      - {x: -212.5, y: 139}
+      - {x: -250.5, y: 106}
+    - - {x: 474.5, y: 139}
+      - {x: 311.5, y: 139}
+      - {x: 252.5, y: 114}
+      - {x: 252.5, y: 42}
+      - {x: 267.5, y: 22}
+      - {x: 458.5, y: 22}
+      - {x: 461.5, y: 33}
+      - {x: 495.5, y: 51}
+      - {x: 495.5, y: 112}
+    - - {x: 304.5, y: 50}
+      - {x: 304.5, y: 52}
+      - {x: 307.5, y: 57}
+      - {x: 307.5, y: 59}
+      - {x: 310.5, y: 64}
+      - {x: 310.5, y: 66}
+      - {x: 311.5, y: 69}
+      - {x: 317.5, y: 68}
+      - {x: 318.5, y: 66}
+      - {x: 319.5, y: 63}
+      - {x: 321.5, y: 61}
+      - {x: 325.5, y: 53}
+      - {x: 331.5, y: 48}
+      - {x: 332.5, y: 48}
+      - {x: 332.5, y: 47}
+      - {x: 333.5, y: 46}
+      - {x: 322.5, y: 47}
+      - {x: 321.5, y: 46}
+      - {x: 307.5, y: 46}
+      - {x: 306.5, y: 45}
+      - {x: 301.5, y: 45}
+    - - {x: 421.5, y: 46}
+      - {x: 420.5, y: 47}
+      - {x: 420.5, y: 50}
+      - {x: 421.5, y: 52}
+      - {x: 419.5, y: 55}
+      - {x: 417.5, y: 63}
+      - {x: 418.5, y: 64}
+      - {x: 418.5, y: 66}
+      - {x: 420.5, y: 69}
+      - {x: 420.5, y: 71}
+      - {x: 422.5, y: 74}
+      - {x: 422.5, y: 77}
+      - {x: 424.5, y: 70}
+      - {x: 426.5, y: 68}
+      - {x: 429.5, y: 67}
+      - {x: 432.5, y: 67}
+      - {x: 432.5, y: 66}
+      - {x: 435.5, y: 61}
+      - {x: 435.5, y: 59}
+      - {x: 438.5, y: 54}
+      - {x: 438.5, y: 52}
+      - {x: 441.5, y: 47}
+      - {x: 441.5, y: 45}
+      - {x: 442.5, y: 44}
+      - {x: 437.5, y: 45}
+      - {x: 436.5, y: 46}
+    - - {x: 275.5, y: 93}
+      - {x: 277.5, y: 92}
+      - {x: 276.5, y: 92}
+    - - {x: -503.5, y: 98}
+      - {x: -286.5, y: 98}
+      - {x: -252.5, y: 103}
+      - {x: -252.5, y: 146}
+      - {x: -254.5, y: 148}
+      - {x: -288.5, y: 149}
+      - {x: -503.5, y: 149}
+    - - {x: 412.5, y: 127}
+      - {x: 421.5, y: 123}
+      - {x: 424.5, y: 117}
+      - {x: 420.5, y: 118}
+    - - {x: 186.5, y: 233}
+      - {x: 63.5, y: 233}
+      - {x: 6.5, y: 215}
+      - {x: 6.5, y: 148}
+      - {x: 33.5, y: 116}
+      - {x: 218.5, y: 116}
+      - {x: 249.5, y: 150}
+      - {x: 249.5, y: 188}
+      - {x: 236.5, y: 203}
+    - - {x: 57.5, y: 143}
+      - {x: 61.5, y: 150}
+      - {x: 61.5, y: 152}
+      - {x: 64.5, y: 157}
+      - {x: 64.5, y: 159}
+      - {x: 66.5, y: 162}
+      - {x: 69.5, y: 162}
+      - {x: 70.5, y: 161}
+      - {x: 71.5, y: 161}
+      - {x: 74.5, y: 155}
+      - {x: 76.5, y: 153}
+      - {x: 77.5, y: 150}
+      - {x: 79.5, y: 148}
+      - {x: 80.5, y: 145}
+      - {x: 84.5, y: 142}
+      - {x: 86.5, y: 142}
+      - {x: 86.5, y: 141}
+      - {x: 87.5, y: 140}
+      - {x: 84.5, y: 141}
+      - {x: 83.5, y: 140}
+      - {x: 68.5, y: 140}
+      - {x: 67.5, y: 139}
+      - {x: 55.5, y: 138}
+      - {x: 56.5, y: 139}
+    - - {x: 174.5, y: 140}
+      - {x: 174.5, y: 147}
+      - {x: 173.5, y: 150}
+      - {x: 171.5, y: 154}
+      - {x: 171.5, y: 157}
+      - {x: 172.5, y: 158}
+      - {x: 172.5, y: 160}
+      - {x: 174.5, y: 163}
+      - {x: 174.5, y: 165}
+      - {x: 176.5, y: 170}
+      - {x: 176.5, y: 167}
+      - {x: 183.5, y: 160}
+      - {x: 186.5, y: 160}
+      - {x: 188.5, y: 156}
+      - {x: 188.5, y: 154}
+      - {x: 192.5, y: 147}
+      - {x: 192.5, y: 145}
+      - {x: 195.5, y: 139}
+      - {x: 184.5, y: 139}
+      - {x: 183.5, y: 140}
+    - - {x: -67.5, y: 237}
+      - {x: -236.5, y: 237}
+      - {x: -248.5, y: 235}
+      - {x: -248.5, y: 166}
+      - {x: -230.5, y: 141}
+      - {x: -57.5, y: 141}
+      - {x: 3.5, y: 166}
+      - {x: 3.5, y: 207}
+      - {x: -31.5, y: 225}
+    - - {x: 140.5, y: 146}
+      - {x: 141.5, y: 143}
+      - {x: 137.5, y: 142}
+      - {x: 138.5, y: 142}
+    - - {x: 262.5, y: 258}
+      - {x: 262.5, y: 171}
+      - {x: 290.5, y: 142}
+      - {x: 468.5, y: 142}
+      - {x: 503.5, y: 169}
+      - {x: 503.5, y: 219}
+      - {x: 465.5, y: 258}
+    - - {x: -459.5, y: 212}
+      - {x: -499.5, y: 195}
+      - {x: -503.5, y: 191}
+      - {x: -503.5, y: 162}
+      - {x: -502.5, y: 155}
+      - {x: -488.5, y: 150}
+      - {x: -453.5, y: 150}
+      - {x: -250.5, y: 158}
+      - {x: -250.5, y: 212}
+    - - {x: -182.5, y: 172}
+      - {x: -174.5, y: 179}
+      - {x: -170.5, y: 171}
+      - {x: -166.5, y: 168}
+      - {x: -163.5, y: 166}
+      - {x: -157.5, y: 166}
+      - {x: -156.5, y: 164}
+      - {x: -183.5, y: 164}
+    - - {x: -88.5, y: 166}
+      - {x: -82.5, y: 166}
+      - {x: -80.5, y: 168}
+      - {x: -78.5, y: 168}
+      - {x: -74.5, y: 172}
+      - {x: -74.5, y: 178}
+      - {x: -73.5, y: 179}
+      - {x: -74.5, y: 180}
+      - {x: -68.5, y: 173}
+      - {x: -68.5, y: 164}
+      - {x: -89.5, y: 164}
+    - - {x: -53.5, y: 174}
+      - {x: -53.5, y: 193}
+      - {x: -44.5, y: 193}
+      - {x: -44.5, y: 164}
+    - - {x: 313.5, y: 169}
+      - {x: 313.5, y: 171}
+      - {x: 316.5, y: 176}
+      - {x: 316.5, y: 178}
+      - {x: 320.5, y: 185}
+      - {x: 321.5, y: 188}
+      - {x: 324.5, y: 188}
+      - {x: 327.5, y: 186}
+      - {x: 328.5, y: 183}
+      - {x: 330.5, y: 181}
+      - {x: 334.5, y: 173}
+      - {x: 340.5, y: 168}
+      - {x: 341.5, y: 168}
+      - {x: 341.5, y: 167}
+      - {x: 342.5, y: 166}
+      - {x: 340.5, y: 167}
+      - {x: 339.5, y: 166}
+      - {x: 325.5, y: 166}
+      - {x: 324.5, y: 165}
+      - {x: 310.5, y: 164}
+      - {x: 311.5, y: 164}
+    - - {x: 429.5, y: 166}
+      - {x: 429.5, y: 173}
+      - {x: 427.5, y: 179}
+      - {x: 425.5, y: 182}
+      - {x: 427.5, y: 184}
+      - {x: 431.5, y: 196}
+      - {x: 431.5, y: 193}
+      - {x: 438.5, y: 186}
+      - {x: 443.5, y: 182}
+      - {x: 443.5, y: 180}
+      - {x: 446.5, y: 173}
+      - {x: 450.5, y: 165}
+      - {x: 437.5, y: 165}
+      - {x: 436.5, y: 166}
+    - - {x: -207.5, y: 193}
+      - {x: -198.5, y: 193}
+      - {x: -203.5, y: 172}
+      - {x: -208.5, y: 167}
+      - {x: -207.5, y: 167}
+    - - {x: 395.5, y: 172}
+      - {x: 396.5, y: 169}
+      - {x: 392.5, y: 168}
+      - {x: 393.5, y: 168}
+    - - {x: 31.5, y: 185}
+      - {x: 30.5, y: 185}
+    - - {x: -183.5, y: 191}
+      - {x: -181.5, y: 189}
+      - {x: -181.5, y: 190}
+      - {x: -184.5, y: 187}
+      - {x: -183.5, y: 187}
+    - - {x: -355.5, y: 194}
+      - {x: -354.5, y: 193}
+      - {x: -357.5, y: 193}
+      - {x: -356.5, y: 193}
+    - - {x: 170.5, y: 211}
+      - {x: 168.5, y: 212}
+      - {x: 168.5, y: 215}
+      - {x: 167.5, y: 219}
+      - {x: 166.5, y: 220}
+      - {x: 169.5, y: 220}
+      - {x: 175.5, y: 216}
+      - {x: 178.5, y: 210}
+      - {x: 175.5, y: 211}
+    - - {x: 287.5, y: 212}
+      - {x: 286.5, y: 211}
+      - {x: 285.5, y: 211}
+    - - {x: -463.5, y: 305}
+      - {x: -504.5, y: 300}
+      - {x: -504.5, y: 212}
+      - {x: -251.5, y: 212}
+      - {x: -251.5, y: 271}
+      - {x: -300.5, y: 305}
+    - - {x: 423.5, y: 239}
+      - {x: 421.5, y: 246}
+      - {x: 430.5, y: 242}
+      - {x: 433.5, y: 236}
+      - {x: 428.5, y: 237}
+    - - {x: 46.5, y: 333}
+      - {x: 7.5, y: 320}
+      - {x: 7.5, y: 265}
+      - {x: 40.5, y: 236}
+      - {x: 259.5, y: 236}
+      - {x: 259.5, y: 305}
+      - {x: 221.5, y: 333}
+    - - {x: -144.5, y: 341}
+      - {x: -248.5, y: 341}
+      - {x: -248.5, y: 269}
+      - {x: -242.5, y: 245}
+      - {x: -232.5, y: 239}
+      - {x: 5.5, y: 239}
+      - {x: 5.5, y: 290}
+      - {x: -96.5, y: 331}
+    - - {x: 73.5, y: 268}
+      - {x: 82.5, y: 275}
+      - {x: 85.5, y: 267}
+      - {x: 88.5, y: 264}
+      - {x: 92.5, y: 262}
+      - {x: 98.5, y: 262}
+      - {x: 98.5, y: 260}
+      - {x: 99.5, y: 259}
+      - {x: 72.5, y: 260}
+    - - {x: 166.5, y: 262}
+      - {x: 173.5, y: 262}
+      - {x: 177.5, y: 264}
+      - {x: 180.5, y: 267}
+      - {x: 181.5, y: 270}
+      - {x: 181.5, y: 276}
+      - {x: 180.5, y: 276}
+      - {x: 186.5, y: 269}
+      - {x: 187.5, y: 268}
+      - {x: 187.5, y: 260}
+      - {x: 166.5, y: 260}
+    - - {x: 209.5, y: 261}
+      - {x: 201.5, y: 271}
+      - {x: 201.5, y: 289}
+      - {x: 210.5, y: 289}
+      - {x: 210.5, y: 260}
+    - - {x: 267.5, y: 344}
+      - {x: 267.5, y: 307}
+      - {x: 289.5, y: 264}
+      - {x: 322.5, y: 260}
+      - {x: 494.5, y: 260}
+      - {x: 501.5, y: 265}
+      - {x: 501.5, y: 303}
+      - {x: 419.5, y: 344}
+    - - {x: -180.5, y: 262}
+      - {x: -179.5, y: 263}
+      - {x: -175.5, y: 262}
+      - {x: -194.5, y: 263}
+    - - {x: 48.5, y: 289}
+      - {x: 57.5, y: 289}
+      - {x: 53.5, y: 269}
+      - {x: 48.5, y: 264}
+    - - {x: -40.5, y: 266}
+      - {x: -48.5, y: 266}
+      - {x: -49.5, y: 265}
+      - {x: -59.5, y: 265}
+    - - {x: 71.5, y: 287}
+      - {x: 73.5, y: 286}
+      - {x: 73.5, y: 285}
+      - {x: 71.5, y: 283}
+      - {x: 72.5, y: 283}
+    - - {x: 311.5, y: 301}
+      - {x: 315.5, y: 297}
+      - {x: 315.5, y: 298}
+    - - {x: -362.5, y: 393}
+      - {x: -365.5, y: 384}
+      - {x: -365.5, y: 382}
+      - {x: -359.5, y: 376}
+      - {x: -354.5, y: 372}
+      - {x: -453.5, y: 410}
+      - {x: -504.5, y: 410}
+      - {x: -504.5, y: 354}
+      - {x: -495.5, y: 317}
+      - {x: -463.5, y: 308}
+      - {x: -250.5, y: 308}
+      - {x: -250.5, y: 351}
+      - {x: -291.5, y: 378}
+    - - {x: -438.5, y: 331}
+      - {x: -437.5, y: 332}
+      - {x: -431.5, y: 331}
+      - {x: -450.5, y: 332}
+    - - {x: -296.5, y: 335}
+      - {x: -303.5, y: 335}
+      - {x: -304.5, y: 334}
+      - {x: -315.5, y: 334}
+    - - {x: 11.5, y: 438}
+      - {x: 11.5, y: 336}
+      - {x: 265.5, y: 336}
+      - {x: 265.5, y: 389}
+      - {x: 183.5, y: 438}
+    - - {x: -228.5, y: 447}
+      - {x: -245.5, y: 425}
+      - {x: -245.5, y: 343}
+      - {x: 2.5, y: 343}
+      - {x: 11.5, y: 351}
+      - {x: 11.5, y: 436}
+      - {x: -17.5, y: 447}
+    - - {x: 397.5, y: 433}
+      - {x: 267.5, y: 433}
+      - {x: 267.5, y: 389}
+      - {x: 331.5, y: 346}
+      - {x: 500.5, y: 346}
+      - {x: 500.5, y: 371}
+      - {x: 460.5, y: 394}
+    - - {x: 76.5, y: 359}
+      - {x: 77.5, y: 360}
+      - {x: 84.5, y: 359}
+      - {x: 65.5, y: 360}
+    - - {x: 219.5, y: 363}
+      - {x: 213.5, y: 363}
+      - {x: 212.5, y: 362}
+      - {x: 200.5, y: 362}
+    - - {x: 307.5, y: 390}
+      - {x: 314.5, y: 390}
+      - {x: 315.5, y: 389}
+      - {x: 316.5, y: 390}
+      - {x: 315.5, y: 389}
+      - {x: 316.5, y: 386}
+      - {x: 313.5, y: 387}
+    - - {x: -405.5, y: 517}
+      - {x: -492.5, y: 501}
+      - {x: -503.5, y: 484}
+      - {x: -503.5, y: 412}
+      - {x: -246.5, y: 412}
+      - {x: -246.5, y: 474}
+      - {x: -311.5, y: 517}
+    - - {x: -72.5, y: 420}
+      - {x: -73.5, y: 421}
+      - {x: -71.5, y: 418}
+      - {x: -73.5, y: 419}
+    - - {x: 419.5, y: 499}
+      - {x: 414.5, y: 499}
+      - {x: 409.5, y: 491}
+      - {x: 350.5, y: 508}
+      - {x: 329.5, y: 508}
+      - {x: 273.5, y: 499}
+      - {x: 273.5, y: 436}
+      - {x: 489.5, y: 436}
+      - {x: 489.5, y: 468}
+      - {x: 480.5, y: 480}
+    - - {x: 23.5, y: 559}
+      - {x: 15.5, y: 524}
+      - {x: 15.5, y: 440}
+      - {x: 268.5, y: 440}
+      - {x: 271.5, y: 447}
+      - {x: 271.5, y: 542}
+      - {x: 185.5, y: 559}
+    - - {x: -173.5, y: 554}
+      - {x: -163.5, y: 532}
+      - {x: -163.5, y: 527}
+      - {x: -164.5, y: 530}
+      - {x: -166.5, y: 534}
+      - {x: -235.5, y: 534}
+      - {x: -243.5, y: 483}
+      - {x: -243.5, y: 451}
+      - {x: -242.5, y: 449}
+      - {x: 13.5, y: 449}
+      - {x: 13.5, y: 554}
+    - - {x: 283.5, y: 485}
+      - {x: 283.5, y: 484}
+      - {x: 288.5, y: 485}
+      - {x: 292.5, y: 486}
+      - {x: 296.5, y: 488}
+      - {x: 294.5, y: 484}
+      - {x: 288.5, y: 485}
+    - - {x: 306.5, y: 486}
+      - {x: 307.5, y: 490}
+      - {x: 308.5, y: 491}
+      - {x: 311.5, y: 491}
+      - {x: 315.5, y: 493}
+      - {x: 318.5, y: 493}
+      - {x: 322.5, y: 494}
+      - {x: 323.5, y: 495}
+      - {x: 317.5, y: 485}
+      - {x: 305.5, y: 485}
+    - - {x: -330.5, y: 489}
+      - {x: -329.5, y: 487}
+      - {x: -331.5, y: 487}
+      - {x: -330.5, y: 487}
+    - - {x: 447.5, y: 582}
+      - {x: 305.5, y: 582}
+      - {x: 277.5, y: 572}
+      - {x: 275.5, y: 568}
+      - {x: 275.5, y: 540}
+      - {x: 300.5, y: 510}
+      - {x: 486.5, y: 510}
+      - {x: 491.5, y: 514}
+      - {x: 491.5, y: 551}
+      - {x: 478.5, y: 578}
+    - - {x: 101.5, y: 517}
+      - {x: 101.5, y: 523}
+      - {x: 104.5, y: 537}
+      - {x: 104.5, y: 540}
+      - {x: 166.5, y: 540}
+      - {x: 176.5, y: 521}
+      - {x: 175.5, y: 520}
+      - {x: 174.5, y: 514}
+      - {x: 174.5, y: 513}
+      - {x: 99.5, y: 512}
+      - {x: 99.5, y: 513}
+    - - {x: -503.5, y: 564}
+      - {x: -504.5, y: 560}
+      - {x: -504.5, y: 521}
+      - {x: -501.5, y: 520}
+      - {x: -248.5, y: 520}
+      - {x: -244.5, y: 531}
+      - {x: -244.5, y: 555}
+      - {x: -257.5, y: 564}
+    - - {x: 285.5, y: 559}
+      - {x: 285.5, y: 558}
+      - {x: 287.5, y: 558}
+      - {x: 291.5, y: 560}
+      - {x: 294.5, y: 560}
+      - {x: 295.5, y: 561}
+      - {x: 298.5, y: 561}
+      - {x: 299.5, y: 562}
+      - {x: 296.5, y: 558}
+      - {x: 291.5, y: 558}
+      - {x: 290.5, y: 559}
+    - - {x: -457.5, y: 626}
+      - {x: -504.5, y: 578}
+      - {x: -504.5, y: 557}
+      - {x: -1.5, y: 557}
+      - {x: 15.5, y: 573}
+      - {x: 15.5, y: 603}
+      - {x: -5.5, y: 626}
+    - - {x: 311.5, y: 565}
+      - {x: 313.5, y: 565}
+      - {x: 314.5, y: 566}
+      - {x: 317.5, y: 566}
+      - {x: 318.5, y: 567}
+      - {x: 321.5, y: 567}
+      - {x: 322.5, y: 568}
+      - {x: 325.5, y: 568}
+      - {x: 326.5, y: 569}
+      - {x: 325.5, y: 568}
+      - {x: 320.5, y: 559}
+      - {x: 307.5, y: 559}
+    - - {x: 115.5, y: 605}
+      - {x: 15.5, y: 599}
+      - {x: 15.5, y: 568}
+      - {x: 37.5, y: 564}
+      - {x: 159.5, y: 560}
+      - {x: 273.5, y: 560}
+      - {x: 273.5, y: 605}
+    - - {x: -205.5, y: 588}
+      - {x: -203.5, y: 588}
+      - {x: -195.5, y: 580}
+      - {x: -204.5, y: 571}
+      - {x: -205.5, y: 571}
+    - - {x: -171.5, y: 580}
+      - {x: -171.5, y: 581}
+      - {x: -164.5, y: 588}
+      - {x: -157.5, y: 588}
+      - {x: -149.5, y: 580}
+      - {x: -158.5, y: 571}
+      - {x: -162.5, y: 571}
+    - - {x: -125.5, y: 580}
+      - {x: -125.5, y: 581}
+      - {x: -118.5, y: 588}
+      - {x: -111.5, y: 588}
+      - {x: -103.5, y: 579}
+      - {x: -111.5, y: 571}
+      - {x: -116.5, y: 571}
+    - - {x: -79.5, y: 580}
+      - {x: -79.5, y: 581}
+      - {x: -72.5, y: 588}
+      - {x: -65.5, y: 588}
+      - {x: -57.5, y: 579}
+      - {x: -65.5, y: 571}
+      - {x: -70.5, y: 571}
+    - - {x: -32.5, y: 580}
+      - {x: -27.5, y: 586}
+      - {x: -28.5, y: 582}
+      - {x: -27.5, y: 581}
+      - {x: -26.5, y: 574}
+      - {x: -26.5, y: 575}
+    - - {x: -226.5, y: 580}
+      - {x: -224.5, y: 580}
+      - {x: -222.5, y: 583}
+      - {x: -222.5, y: 577}
+      - {x: -222.5, y: 578}
+    - - {x: -11.5, y: 583}
+      - {x: -7.5, y: 580}
+      - {x: -5.5, y: 580}
+      - {x: -5.5, y: 581}
+      - {x: -8.5, y: 579}
+      - {x: -10.5, y: 577}
+    - - {x: 463.5, y: 656}
+      - {x: 286.5, y: 656}
+      - {x: 275.5, y: 651}
+      - {x: 275.5, y: 587}
+      - {x: 287.5, y: 584}
+      - {x: 488.5, y: 584}
+      - {x: 491.5, y: 594}
+      - {x: 491.5, y: 633}
+      - {x: 485.5, y: 651}
+    - - {x: -28.5, y: 666}
+      - {x: 7.5, y: 669}
+      - {x: 35.5, y: 608}
+      - {x: 38.5, y: 605}
+      - {x: 253.5, y: 605}
+      - {x: 273.5, y: 656}
+      - {x: 273.5, y: 704}
+      - {x: 230.5, y: 704}
+      - {x: 202.5, y: 703}
+      - {x: 180.5, y: 690}
+      - {x: 174.5, y: 704}
+      - {x: -246.5, y: 704}
+      - {x: -246.5, y: 650}
+      - {x: -242.5, y: 635}
+      - {x: -210.5, y: 609}
+      - {x: -90.5, y: 605}
+      - {x: -36.5, y: 605}
+      - {x: 14.5, y: 630}
+      - {x: 18.5, y: 641}
+      - {x: -1.5, y: 665}
+    - - {x: -483.5, y: 691}
+      - {x: -504.5, y: 677}
+      - {x: -504.5, y: 626}
+      - {x: -247.5, y: 626}
+      - {x: -247.5, y: 690}
+      - {x: -263.5, y: 691}
+    - - {x: 285.5, y: 633}
+      - {x: 285.5, y: 632}
+      - {x: 287.5, y: 632}
+      - {x: 291.5, y: 634}
+      - {x: 294.5, y: 634}
+      - {x: 295.5, y: 635}
+      - {x: 298.5, y: 635}
+      - {x: 299.5, y: 636}
+      - {x: 296.5, y: 632}
+      - {x: 291.5, y: 632}
+      - {x: 290.5, y: 633}
+    - - {x: 311.5, y: 639}
+      - {x: 313.5, y: 639}
+      - {x: 314.5, y: 640}
+      - {x: 317.5, y: 640}
+      - {x: 318.5, y: 641}
+      - {x: 321.5, y: 641}
+      - {x: 322.5, y: 642}
+      - {x: 325.5, y: 642}
+      - {x: 326.5, y: 643}
+      - {x: 324.5, y: 640}
+      - {x: 320.5, y: 633}
+      - {x: 307.5, y: 633}
+    - - {x: -305.5, y: 641}
+      - {x: -302.5, y: 642}
+      - {x: -301.5, y: 643}
+      - {x: -299.5, y: 643}
+      - {x: -295.5, y: 644}
+      - {x: -288.5, y: 646}
+      - {x: -279.5, y: 649}
+      - {x: -274.5, y: 652}
+      - {x: -273.5, y: 660}
+      - {x: -271.5, y: 659}
+      - {x: -263.5, y: 659}
+      - {x: -269.5, y: 654}
+      - {x: -274.5, y: 653}
+      - {x: -298.5, y: 644}
+      - {x: -301.5, y: 642}
+      - {x: -303.5, y: 642}
+      - {x: -306.5, y: 640}
+    - - {x: 436.5, y: 767}
+      - {x: 277.5, y: 767}
+      - {x: 273.5, y: 756}
+      - {x: 273.5, y: 697}
+      - {x: 302.5, y: 658}
+      - {x: 484.5, y: 658}
+      - {x: 494.5, y: 676}
+      - {x: 494.5, y: 722}
+      - {x: 474.5, y: 739}
+    - - {x: 322.5, y: 680}
+      - {x: 321.5, y: 680}
+      - {x: 327.5, y: 680}
+      - {x: 327.5, y: 679}
+      - {x: 325.5, y: 677}
+    - - {x: 359.5, y: 680}
+      - {x: 358.5, y: 680}
+      - {x: 364.5, y: 680}
+      - {x: 364.5, y: 679}
+      - {x: 362.5, y: 677}
+    - - {x: 399.5, y: 680}
+      - {x: 402.5, y: 680}
+      - {x: 402.5, y: 678}
+      - {x: 402.5, y: 679}
+    - - {x: 434.5, y: 680}
+      - {x: 436.5, y: 678}
+    - - {x: -447.5, y: 820}
+      - {x: -437.5, y: 769}
+      - {x: -431.5, y: 762}
+      - {x: -428.5, y: 763}
+      - {x: -408.5, y: 752}
+      - {x: -499.5, y: 791}
+      - {x: -504.5, y: 791}
+      - {x: -504.5, y: 781}
+      - {x: -496.5, y: 768}
+      - {x: -483.5, y: 762}
+      - {x: -488.5, y: 764}
+      - {x: -495.5, y: 761}
+      - {x: -504.5, y: 753}
+      - {x: -504.5, y: 694}
+      - {x: 15.5, y: 694}
+      - {x: 15.5, y: 820}
+    - - {x: 412.5, y: 705}
+      - {x: 415.5, y: 701}
+      - {x: 412.5, y: 700}
+      - {x: 413.5, y: 701}
+    - - {x: 170.5, y: 820}
+      - {x: 26.5, y: 779}
+      - {x: 15.5, y: 771}
+      - {x: 15.5, y: 753}
+      - {x: 19.5, y: 742}
+      - {x: 95.5, y: 732}
+      - {x: 147.5, y: 730}
+      - {x: 200.5, y: 707}
+      - {x: 249.5, y: 707}
+      - {x: 275.5, y: 745}
+      - {x: 275.5, y: 794}
+      - {x: 245.5, y: 820}
+    - - {x: -343.5, y: 717}
+      - {x: -344.5, y: 717}
+      - {x: -342.5, y: 715}
+      - {x: -344.5, y: 715}
+      - {x: -343.5, y: 716}
+    - - {x: -387.5, y: 723}
+      - {x: -389.5, y: 723}
+      - {x: -390.5, y: 724}
+      - {x: -392.5, y: 724}
+      - {x: -393.5, y: 725}
+      - {x: -400.5, y: 726}
+      - {x: -396.5, y: 727}
+      - {x: -391.5, y: 724}
+      - {x: -389.5, y: 724}
+      - {x: -384.5, y: 721}
+      - {x: -377.5, y: 718}
+      - {x: -372.5, y: 716}
+      - {x: -371.5, y: 717}
+      - {x: -372.5, y: 718}
+    - - {x: -378.5, y: 738}
+      - {x: -374.5, y: 739}
+      - {x: -373.5, y: 736}
+      - {x: -374.5, y: 737}
+    - - {x: -359.5, y: 739}
+      - {x: -360.5, y: 742}
+      - {x: -362.5, y: 746}
+      - {x: -356.5, y: 748}
+      - {x: -354.5, y: 750}
+      - {x: -347.5, y: 753}
+      - {x: -347.5, y: 755}
+      - {x: -352.5, y: 741}
+      - {x: -359.5, y: 737}
+    - - {x: -264.5, y: 743}
+      - {x: -264.5, y: 746}
+      - {x: -262.5, y: 750}
+      - {x: -262.5, y: 753}
+      - {x: -260.5, y: 757}
+      - {x: -260.5, y: 760}
+      - {x: -258.5, y: 764}
+      - {x: -258.5, y: 767}
+      - {x: -256.5, y: 771}
+      - {x: -255.5, y: 778}
+      - {x: -254.5, y: 778}
+      - {x: -253.5, y: 782}
+      - {x: -252.5, y: 788}
+      - {x: -253.5, y: 773}
+      - {x: -254.5, y: 772}
+      - {x: -254.5, y: 765}
+      - {x: -255.5, y: 764}
+      - {x: -256.5, y: 760}
+      - {x: -257.5, y: 753}
+      - {x: -260.5, y: 748}
+      - {x: -265.5, y: 742}
+      - {x: -265.5, y: 741}
+    - - {x: -332.5, y: 753}
+      - {x: -333.5, y: 753}
+      - {x: -332.5, y: 750}
+      - {x: -334.5, y: 749}
+      - {x: -333.5, y: 749}
+    - - {x: 129.5, y: 754}
+      - {x: 131.5, y: 755}
+      - {x: 139.5, y: 765}
+      - {x: 140.5, y: 768}
+      - {x: 148.5, y: 761}
+      - {x: 155.5, y: 754}
+      - {x: 143.5, y: 755}
+    - - {x: 102.5, y: 757}
+      - {x: 98.5, y: 761}
+      - {x: 97.5, y: 761}
+      - {x: 100.5, y: 761}
+      - {x: 101.5, y: 762}
+      - {x: 105.5, y: 762}
+      - {x: 106.5, y: 763}
+      - {x: 110.5, y: 763}
+      - {x: 111.5, y: 764}
+      - {x: 115.5, y: 764}
+      - {x: 116.5, y: 765}
+      - {x: 114.5, y: 765}
+      - {x: 113.5, y: 762}
+      - {x: 107.5, y: 756}
+      - {x: 108.5, y: 756}
+      - {x: 107.5, y: 757}
+    - - {x: -282.5, y: 767}
+      - {x: -286.5, y: 768}
+      - {x: -292.5, y: 775}
+      - {x: -295.5, y: 776}
+      - {x: -300.5, y: 775}
+      - {x: -297.5, y: 776}
+      - {x: -295.5, y: 776}
+      - {x: -292.5, y: 778}
+      - {x: -288.5, y: 779}
+      - {x: -286.5, y: 781}
+      - {x: -285.5, y: 781}
+      - {x: -278.5, y: 787}
+      - {x: -277.5, y: 790}
+      - {x: -277.5, y: 792}
+      - {x: -274.5, y: 794}
+      - {x: -272.5, y: 794}
+      - {x: -269.5, y: 796}
+      - {x: -267.5, y: 796}
+      - {x: -266.5, y: 797}
+      - {x: -267.5, y: 791}
+      - {x: -268.5, y: 790}
+      - {x: -268.5, y: 787}
+      - {x: -269.5, y: 786}
+      - {x: -269.5, y: 784}
+      - {x: -271.5, y: 780}
+      - {x: -271.5, y: 777}
+      - {x: -272.5, y: 776}
+      - {x: -272.5, y: 774}
+      - {x: -273.5, y: 773}
+      - {x: -274.5, y: 767}
+      - {x: -275.5, y: 766}
+      - {x: -275.5, y: 763}
+      - {x: -275.5, y: 764}
+    - - {x: 277.5, y: 819}
+      - {x: 276.5, y: 817}
+      - {x: 276.5, y: 807}
+      - {x: 292.5, y: 770}
+      - {x: 485.5, y: 770}
+      - {x: 501.5, y: 802}
+      - {x: 501.5, y: 819}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

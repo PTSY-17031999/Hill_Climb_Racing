@@ -1,0 +1,38 @@
+//
+// stage definition file
+//
+{
+  "id": "retro_mission",
+  "type": "mission",
+  "blockTypes": [
+    {
+      "id": "algorithm",
+      "type": "expr",
+      "expr": ""
+    }
+  ],
+  "blocks": [
+    "algorithm"
+  ],
+  "music": [
+    {
+      "track": "audio/8bit-ingame",
+      "volume": 0.0
+    }
+  ],
+  "graphics": [
+    {
+      "hasTerrain": false,
+      "gradientSkyTexture": "stages/moon/moon-bg",
+      "terrainTexture": "stages/moon/moon-ground",
+      "terrainTopTexture": "stages/moon/moon-surface",
+      "dirtParticle": "dirt.plist"
+    }
+  ],
+  "physics": [
+    {
+      "gravity": [ 0.0, 0.0 ]
+    }
+  ],
+  "hasFuel": false
+}
