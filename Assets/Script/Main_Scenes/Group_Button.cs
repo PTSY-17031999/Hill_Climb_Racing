@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Group_Button : MonoBehaviour
@@ -9,6 +10,9 @@ public class Group_Button : MonoBehaviour
     public GameObject Scenes_Choose_Car;
     public GameObject Scenes_Choose_Stage;
     public GameObject Scenes_Main_Shop;
+
+    private Net_Choise_Car CN_Net_Choise_Car;
+    private Data_Processing CN_Data_Processing;
 
     #region Các map
     public GameObject Stage_1;
@@ -21,7 +25,10 @@ public class Group_Button : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        CN_Net_Choise_Car = FindObjectOfType<Net_Choise_Car>();
+        CN_Data_Processing = FindObjectOfType<Data_Processing>();
+
+
     }
 
     // Update is called once per frame
@@ -53,7 +60,6 @@ public class Group_Button : MonoBehaviour
                 Click_BTN_STAGE();
                 break;
             case 4:
-                Scenes_Main_Shop.SetActive(false);
                 Click_BTN_PLAY();
                 break;
 
@@ -75,6 +81,7 @@ public class Group_Button : MonoBehaviour
     }
     public void Click_BTN_PLAY()
     {
-
+        CN_Data_Processing.Set_Map_And_Car(CN_Net_Choise_Car.Retumn_Choose_Car(), CN_Net_Choise_Car.Retumn_Choose_Stage());
+        SceneManager.LoadScene("Scenes_Main_Play");
     }
 }

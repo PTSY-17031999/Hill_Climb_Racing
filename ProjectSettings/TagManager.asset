@@ -4,8 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Brick
-  - Bridge
+  - Ground
+  - Carfuel
+  - Coin
+  - Body
   layers:
   - Default
   - TransparentFX

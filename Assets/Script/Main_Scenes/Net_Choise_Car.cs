@@ -9,7 +9,7 @@ public class Net_Choise_Car : MonoBehaviour
     [SerializeField] private List<GameObject> List_Car;
     int Selected_location_Car; // Vị trí xe được chọn
     [SerializeField] private List<GameObject> List_Stage;
-    int Selected_location_Stage; // Vị trí xe được chọn
+    int Selected_location_Stage; // Vị trí map được chọn
 
     int Move_left_or_right; // Di chuyển theo hướng trái hoặc phải
     [SerializeField] private float Speed;
@@ -192,16 +192,28 @@ public class Net_Choise_Car : MonoBehaviour
     {
 
     }
-/*
-    public IEnumerator ScaleObject(Vector3 targetPos, float duration)
+
+
+
+    public int Retumn_Choose_Stage() {
+
+        return Selected_location_Stage;
+    }
+    public int Retumn_Choose_Car()
     {
-        float time = 0;
-        float rate = 1 / duration;
-        while (time < 1)
+
+        return Selected_location_Car;
+    }
+    /*
+        public IEnumerator ScaleObject(Vector3 targetPos, float duration)
         {
-            time += rate * Time.deltaTime;
-            transform.localScale = targetScale * moveCurve.Evaluate(time);
-            yield return 0;
-        }
-    }*/
+            float time = 0;
+            float rate = 1 / duration;
+            while (time < 1)
+            {
+                time += rate * Time.deltaTime;
+                transform.localScale = targetScale * moveCurve.Evaluate(time);
+                yield return 0;
+            }
+        }*/
 }

@@ -18,8 +18,17 @@ public class Data_Processing : MonoBehaviour
         }
         else
         {
-            string a = PlayerPrefs.GetString("Car_Stock") + i.ToString();
-            PlayerPrefs.SetString("Car_Stock", a);
+            for (int z = 0; z >= (char)PlayerPrefs.GetString("Car_Stock").Split(',').Length; z++)
+            {
+                if(PlayerPrefs.GetString("Car_Stock").Split(',')[z].ToString() == i.ToString())
+                {
+                    Debug.Log("Xe đã có trong kho");
+                    return;
+                }
+            }
+            
+                string a = PlayerPrefs.GetString("Car_Stock") + ", " + i.ToString();
+                PlayerPrefs.SetString("Car_Stock", a);
         }
     }
 
@@ -42,10 +51,17 @@ public class Data_Processing : MonoBehaviour
             PlayerPrefs.SetString("Stage_Stock", i.ToString());
         }
         else
-        {
+            for (int z = 0; z >= (char)PlayerPrefs.GetString("Stage_Stock").Split(',').Length; z++)
+            {
+                if (PlayerPrefs.GetString("Stage_Stock").Split(',')[z].ToString() == i.ToString())
+                {
+                    Debug.Log("Xe đã có trong kho");
+                    return;
+                }
+            }
             string a = PlayerPrefs.GetString("Stage_Stock") + i.ToString();
             PlayerPrefs.SetString("Stage_Stock", a);
-        }
+        
     }
 
 
@@ -89,4 +105,24 @@ public class Data_Processing : MonoBehaviour
     }
     #endregion
 
+
+    #region Xử lý lựa chọn xe, map để chơi
+    public void Set_Map_And_Car(int _Car, int _Map)
+    {
+        PlayerPrefs.SetInt("_Car", _Car);
+        PlayerPrefs.SetInt("_Map", _Map);
+
+    }
+    public int Get_Map()
+    {
+        return PlayerPrefs.GetInt("_Map");
+
+    }
+
+    public int Get_Car()
+    {
+       return PlayerPrefs.GetInt("_Car");
+    }
+
+    #endregion
 }

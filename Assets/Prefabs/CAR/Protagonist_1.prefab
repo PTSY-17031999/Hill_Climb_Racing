@@ -296,7 +296,7 @@ GameObject:
   - component: {fileID: 4948211653587733616}
   m_Layer: 0
   m_Name: driver-body
-  m_TagString: Untagged
+  m_TagString: Body
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -516,6 +516,7 @@ GameObject:
   - component: {fileID: 4948211654066847022}
   - component: {fileID: 4948211654066847021}
   - component: {fileID: 4948211654066847020}
+  - component: {fileID: 466513742}
   m_Layer: 0
   m_Name: Protagonist_1
   m_TagString: Untagged
@@ -530,7 +531,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4948211654066846931}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.33508307, y: -0.70978653, z: -1.5659932}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -626,6 +627,19 @@ MonoBehaviour:
   Front_Tire: {fileID: 4948211653826464404}
   Back_Tire: {fileID: 4948211653393829182}
   _Car: {fileID: 4948211654066847023}
+--- !u!114 &466513742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4948211654066846931}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6da0762a4cc3e544698d823dfc36094c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Follow_Camera: {fileID: 0}
 --- !u!1 &4948211654300555870
 GameObject:
   m_ObjectHideFlags: 0
@@ -641,7 +655,7 @@ GameObject:
   - component: {fileID: 4948211654300555864}
   m_Layer: 0
   m_Name: driver-head
-  m_TagString: Untagged
+  m_TagString: Body
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
