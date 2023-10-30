@@ -20,6 +20,14 @@ public class Game_Controler : MonoBehaviour
         CN_Manage_Ui_Gameplay = FindObjectOfType<Manage_Ui_Gameplay>();
         Is_Pausegame = false;
         Is_Overgame = false;
+        if(Score >= Cn_Data_Processing.Get_Score())
+        {
+            CN_Manage_Ui_Gameplay.Change_Score(Score);
+        }
+        else
+        {
+            CN_Manage_Ui_Gameplay.Change_Score(Cn_Data_Processing.Get_Score());
+        }
 
         CN_Audio_Controller = FindObjectOfType<Audio_Controller>();
     }
@@ -27,7 +35,7 @@ public class Game_Controler : MonoBehaviour
 
     public void Plus_Score()
     {
-        Score++;
+        Score = Cn_Data_Processing.Get_Score() + 1;
         CN_Audio_Controller.Play_PlusCoin_sound();
         CN_Manage_Ui_Gameplay.Change_Score(Score);
         Cn_Data_Processing.Set_Score(Score);

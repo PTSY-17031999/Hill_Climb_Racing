@@ -4,16 +4,13 @@ using UnityEngine;
 
 public class Net_Choise_Car : MonoBehaviour
 {
-    // Start is called before the first frame update
 
     [SerializeField] private List<GameObject> List_Car;
-    int Selected_location_Car; // Vị trí xe được chọn
     [SerializeField] private List<GameObject> List_Stage;
-    int Selected_location_Stage; // Vị trí map được chọn
-
-    int Move_left_or_right; // Di chuyển theo hướng trái hoặc phải
     [SerializeField] private float Speed;
-
+    int Selected_location_Car; // Vị trí xe được chọn
+    int Selected_location_Stage; // Vị trí map được chọn
+    int Move_left_or_right; // Di chuyển theo hướng trái hoặc phải
 
     public GameObject Main_Car;
     public GameObject Main_Stage;
@@ -21,6 +18,7 @@ public class Net_Choise_Car : MonoBehaviour
     void Start()
     {
         Selected_location_Car = 1;
+        Selected_location_Stage = 1;
     }
 
     // Update is called once per frame

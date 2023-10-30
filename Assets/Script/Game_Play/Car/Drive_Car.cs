@@ -32,9 +32,6 @@ public class Drive_Car : MonoBehaviour
         if(Input_Move != 0 && CN_Game_Controler.Get_Overgame() != true)
         {
             CN_Audio_Controller.Play_Gas_sound();
-        }else
-        {
-
         }
     }
 
